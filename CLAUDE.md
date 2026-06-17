@@ -43,29 +43,52 @@ markdown editor.
 
 ### File Contents
 
-Each file starts with a table of things, for a concise reference. If more detail is
-warranted, a separate sub-section can be added to the document.
+Each file starts with a table of things, for a concise reference. Keep the summary table
+short — notes and links live in a `Detailed Notes` section below, with one sub-section per
+place, and the table's `Link` column points to that sub-section by anchor.
+
+Pad each column with spaces so the raw Markdown stays aligned and easy to scan in a plain
+text editor, not just when rendered.
 
 ```markdown
 
 # Summary
 
-| Name | Type | Area | Rating (1-10) | Notes | Links |
-|---|---|---|---|---|---|
-| Example Place    | Museum     | Downtown | TODO | Strong modern art collection | [Map](https://example.com) |
-| Some Restaaurant | Restaurant | Uptown   |  6 | | Great appetizers; expensive  | |
+| Name          | Type       | Area     | Rating (1-10) | Link                      |
+|---------------|------------|----------|----------------|---------------------------|
+| Example Place | Museum     | Downtown | TODO           | [link](#example-place)    |
+| Some Restaurant | Restaurant | Uptown | 6              | [link](#some-restaurant)  |
 
 # Detailed Notes
 
+## Example Place
+
+Strong modern art collection.
+
+[Map](https://example.com)
+
 ## Some Restaurant
 
-Some information about dishes tried
+Great appetizers; expensive. Some information about dishes tried.
+
+[Map](https://example.com)
 
 ```
 
+The `Name` column holds plain text (no link) — the section anchor lives only in the `Link`
+column, so the table stays scannable. The anchor is the place's GitHub-style heading slug
+(lowercase, spaces to hyphens, punctuation stripped).
+
+### Type
+
+Use a `Category - Subtype` format when a finer distinction is useful, e.g. `Cafe - Coffee`,
+`Restaurant - Taco`, `Museum - Art`. Fall back to just the category if no finer distinction
+is needed.
+
 ### Links
 
-Include only links that are genuinely useful. Typical options are:
+Include only links that are genuinely useful, placed in the relevant `Detailed Notes`
+sub-section (not the summary table). Typical options are:
 
 - `Map`
 - `Website`
