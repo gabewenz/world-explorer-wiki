@@ -31,20 +31,22 @@
 | The Codmother                | Fish & Chips                | Fisherman's Wharf | $$   | 6             | [link](#the-codmother)             |
 | Dumpling Zone                | Chinese                     | Forrest Hill      | $$   | 6             | [link](#dumpling-zone)             |
 | La Corneta Taqueria          | Tacos, burritos             | Glen Park         | TODO | TODO          |                                    |
+| Sandy's                      | Sandwiches                  | Haight            | TODO | TODO          |                                    |
 | Jules                        | Pizza                       | Haight, Lower     | $$   | 🟢 8          | [link](#jules)                     |
 | Stoa                         | Mexican, Cocktails          | Haight, Lower     | $$   | 🟢 8          | [link](#stoa)                      |
 | Dumpling Home                | Dumplings, Chinese          | Hayes Valley      | $$   | 🟢 8          | [link](#dumpling-home)             |
+| Marufuku Ramen               | Ramen, Japanese             | Japantown         | $$   | 🟢 8          | [link](#marufuku-ramen)            |
 | Mochill Mochi Donuts         | Donuts                      | Japantown         | $$   | 6             | [link](#mochill-mochi-donuts)      |
 | Nari                         | Thai fusion                 | Japantown         | $$$  | 6             | [link](#nari)                      |
 | Greens                       | Healthy                     | Marina            | $$$  | 🟢 8          | [link](#greens)                    |
 | MaMo                         | Colombian / Venezuelan      | Marina            | $$   | 🟢 8          | [link](#mamo)                      |
+| The Marshall Store           | Oysters, Seafood            | Marshall, CA      | $$   | TODO          | [link](#the-marshall-store)        |
 | Sanguchon Eatery             | Peruvian, Sandwiches        | Mission           | $$   | 6             | [link](#sanguchon-eatery)          |
 | Yamo                         | Burmese                     | Mission           | $    | 🟢 8          |                                    |
 | Truly Med                    | Middle Eastern              | Mission           | $    | 6             | [link](#truly-med)                 |
 | Little Star Pizza            | Pizza                       | Mission           | $$   | 🟢 8          | [link](#little-star-pizza)         |
 | Beretta                      | Pizza                       | Mission           | $$   | 🟢 8          | [link](#beretta)                   |
 | Delfina Pizzeria             | Pizza                       | Mission           | $$   | 6             |                                    |
-| Trick Dog                    | Cocktails                   | Mission           | $$   | 🟢 8          | [link](#trick-dog)                 |
 | Radio Habana Social Club     | Cuban, music                | Mission           | $$   | 6             | [link](#radio-habana-social-club)  |
 | Mission Banh Mi              | Vn Banh Mi                  | Mission           | $    | 6             | [link](#mission-banh-mi)           |
 | Deccan Spice                 | South Indian                | Mission           | $$   | 6             | [link](#deccan-spice)              |
@@ -84,6 +86,10 @@
 | Newkirk's                    | Sandwiches                  | Mission           | $$   | 7             | [link](#newkirks)                  |
 | Kolapasi                     | South Indian                | Mission           | $$   | 🟢 8          | [link](#kolapasi)                  |
 | Hem by Lequy                 | Vietnamese                  | Mission           | $$   | 🟢 8          | [link](#hem-by-lequy)              |
+| Dandelion Chocolate          | Chocolate, Cafe             | Mission           | $$   | TODO          | [link](#dandelion-chocolate)       |
+| Bi-Rite Creamery             | Ice Cream                   | Mission           | $$   | TODO          | [link](#bi-rite-creamery)          |
+| Humphry Slocombe             | Ice Cream                   | Mission           | $$   | TODO          | [link](#humphry-slocombe)          |
+| Hi Hat                       | Pizza                       | Mission           | TODO | TODO          |                                    |
 | Cavaña Rooftop Lounge        | Latin Fusion, cocktails     | Mission Bay       | $$   | 🟢 8          | [link](#cavaa-rooftop-lounge)      |
 | Bistro Ember                 | Medeterranian               | Noe Valley        |      | 6             |                                    |
 | Lucinda's Deli               | Deli Sandwiches             | Nopa              | $$   | 🟢 8          | [link](#lucindas-deli)             |
@@ -105,13 +111,14 @@
 | Roam                         | Burgers                     | Pac Heights       | TODO | TODO          |                                    |
 | Ben Thai Cafe                | Thai                        | Polk              | $$   | 6             | [link](#ben-thai-cafe)             |
 | Spirial                      | Oysters                     | Polk              | TODO | TODO          |                                    |
+| Karam                        | Mediterranean               | Polk              | TODO | TODO          |                                    |
 | Helmand Palace               | Afghan, Kabobs              | Polk              | $$   | 🟢 8          | [link](#helmand-palace)            |
 | Nara                         | Sushi, Japanese             | Polk              | $$$  | 🟢 8          | [link](#nara)                      |
 | Saru                         | Sushi, Japanese             | Polk              | $$   | 🟢 8          | [link](#saru)                      |
 | Limoncello's                 | Italian Deli                | Polk Gulch        | $$   | 6             | [link](#limoncellos)               |
 | Swan's Oyster Bar            | Seafood, Oysters            | Polk Gulch        | TODO | TODO          |                                    |
 | Banh Mi House                | Vietnamese Sandwiches       | Portola           | $$   | 6             | [link](#banh-mi-house)             |
-| The Morris                   | New American                | Potrero Hill      | $$$  | 🟢 8          |                                    |
+| The Morris                   | New American                | Potrero Hill      | $$$  | 🟢🟢 9        | [link](#the-morris)                |
 | Ganim's                      | Burgers                     | Potrero Hill      | $$   | 🟢 8          | [link](#ganims)                    |
 | Pastel Brazzuca              | Brazillian Street Food      | Potrero Hill      | $$   | 🟢 8          | [link](#pastel-brazzuca)           |
 | Mochica                      | Peruvian                    | Potrero Hill      | $$   | 🟢 8          | [link](#mochica)                   |
@@ -119,7 +126,7 @@
 | Po'Boys Kitchen              | Cajun                       | Potrero Hill      | $$   | 7             | [link](#poboys-kitchen)            |
 | Twilight Cafe                | Middle Eastern              | Richmond Inner    | $    | 6             | [link](#twilight-cafe)             |
 | Cafe Europa                  | Eastern European            | Richmond Inner    | $$   | 7             | [link](#cafe-europa)               |
-| Burmese Kitchen              | Burmese                     | Richmond Inner    | $$   | 🟢🟢 9        | [link](#burmese-kitchen)           |
+| Burmese Kitchen              | Burmese                     | Richmond Inner    | $$   | 🟢 8          | [link](#burmese-kitchen)           |
 | Lou's Cafe                   | Sandwiches                  | Richmond Inner    | $$   | 6             | [link](#lous-cafe)                 |
 | Cafe Bunn Mi                 | Vn Banh Mi                  | Richmond Inner    | $    | 🟢🟢 10       | [link](#cafe-bunn-mi)              |
 | Eternal Springs              | Banh Mi, Juice              | Richmond Inner    | $    | 6             | [link](#eternal-springs)           |
@@ -137,6 +144,7 @@
 | Burma Superstar              | Burmese                     | Richmond Inner    | $$   | 6             | [link](#burma-superstar)           |
 | Mandalay                     | Burmese                     | Richmond Inner    | $$   | 6             | [link](#mandalay)                  |
 | Arsicault                    | Bakery, Croissants          | Richmond Inner    | $$   | 🟢🟢 10       |                                    |
+| Garden Creamery              | Ice Cream                   | Richmond Inner    | $$   | TODO          | [link](#garden-creamery)           |
 | Lung Fung Bakery             | Chinese Bakery              | Richmond Middle   | $    | 🟢 8          | [link](#lung-fung-bakery)          |
 | WenChang Dumpling Restaurant | Chinese, Dumplings          | Richmond Middle   | $$   | TODO          |                                    |
 | PPQ                          | Crab                        | Richmond Outer    | $$   | 6             | [link](#ppq)                       |
@@ -146,7 +154,7 @@
 | Pizzetta 211                 | Pizza                       | Richmond Outer    | $$   | 🟢🟢 10       | [link](#pizzetta-211)              |
 | Super Pan                    | Teppanyaki                  | Richmond Outer    | $$   | 🟢 8          | [link](#super-pan)                 |
 | Amphawa                      | Thai                        | Richmond Outer    | $$   | 6             | [link](#amphawa)                   |
-| Pearl 6101                   | American (New)              | Richmond Outer    | $$   | 🟢🟢 10       | [link](#pearl-6101)                |
+| Pearl 6101                   | American (New)              | Richmond Outer    | $$   | 🟢🟢 9        | [link](#pearl-6101)                |
 | Lokma                        | Mediterranean               | Richmond Outer    | $$   | 🟢 8          | [link](#lokma)                     |
 | AK Meats                     | Sandwiches                  | Richmond Outer    | $    | 🟢 8          | [link](#ak-meats)                  |
 | ilana Coffee                 | Vietnamese Sandwiches       | Richmond Outer    | $    | 🟢🟢 10       | [link](#ilana-coffee)              |
@@ -187,7 +195,6 @@
 | You See Sushi                | Sushi                       | Sunset Inner      | $$   | 4             | [link](#you-see-sushi)             |
 | Kezar Pizzetta               | Pizza                       | Sunset Inner      | $$   | 🟢 8          | [link](#kezar-pizzetta)            |
 | Tikka Masala                 | Indian/Pakistani            | Sunset Inner      | $$   | 6             | [link](#tikka-masala)              |
-| Fresca                       | Peruvian                    | Sunset Inner      | $$   | 7             | [link](#fresca)                    |
 | Manna                        | Korean                      | Sunset Inner      | $$   | 🟢 8          | [link](#manna)                     |
 | Sriracha                     | Thai                        | Sunset Inner      | $$   | 6             | [link](#sriracha)                  |
 | B & B                        | Banh mi, Boba               | Sunset Inner      | $$   | 🟢 8          | [link](#b--b)                      |
@@ -204,7 +211,7 @@
 | Thai Cottage                 | Thai                        | Sunset Outer      | $$   | 6             |                                    |
 | Pisces                       | California Cuisine          | Sunset Outer      | $$   | TODO          |                                    |
 | Outerlands                   | California Cuisine          | Sunset Outer      | $$   | 🟢 8          |                                    |
-| Terra Cotta Warrior          | Chinese                     | Sunset Outer      | $$   | 🟢 8          | [link](#terra-cotta-warrior)       |
+| Terra Cotta Warrior          | Chinese                     | Sunset Outer      | $$   | 🟢 8          |                                    |
 | Le Trio                      | Vietnamese Sandwiches       | Sunset Outer      | $$   | 6             | [link](#le-trio)                   |
 | House of Pancakes            | Chinese                     | Sunset Outer      | $    | 🟢 8          | [link](#house-of-pancakes)         |
 | Brothers Pizza               | Pizza, Indian               | Sunset Outer      | $    | TODO          |                                    |
@@ -219,13 +226,101 @@
 | Clancey's Market             | Sandwiches                  | Sunset Outer      | $$   | 6             | [link](#clanceys-market)           |
 | Banwich                      | Vietnamese sandos           | Sunset Outer      | $$   | 🟢 8          | [link](#banwich)                   |
 | Pineapple King Bakery        | Chinese Bakery              | Sunset Outer      | $$   | 🟢 8          |                                    |
-| Del Poppolo                  | Artisan Pizza               | Tender Nob        | $$   | 🟢 8          | [link](#del-poppolo)               |
+| Del Poppolo                  | Artisan Pizza               | Tender Nob        | $$   | 🟢 8          |                                    |
 | Pearl's Deluxe Burgers       | Burgers                     | Tender Nob        | $$   | 7             | [link](#pearls-deluxe-burgers)     |
-| Fresh Brew Coffee            | Banh Mi                     | Tender Nob        | $$   | 🟢🟢 10       | [link](#fresh-brew-coffee)         |
+| Fresh Brew Coffee            | Banh Mi                     | Tender Nob        | $$   | 🟢🟢 9        | [link](#fresh-brew-coffee)         |
 | Lapisara Earery              | Brunch, Burgers, Thai       | Tender Nob        | $$   | TODO          |                                    |
 | Farmerbrown                  | Soul food                   | Tenderloin        | $$   | 7             | [link](#farmerbrown)               |
 | Kim Thanh                    | Vietnamese                  | Tenderloin        | $$   | TODO          | [link](#kim-thanh)                 |
+| Cordon Bleu                  | Vietnamese                  | Tenderloin        | TODO | TODO          |                                    |
 | Brenda's French Soul Food    | Southern, Cajon/Creole      | Tenderloin        | $$   | 🟢 8          | [link](#brendas-french-soul-food)  |
+
+# Drink (Alcohol)
+
+| Name             | Type             | Area              | Cost | Rating (1-10) | Link                      |
+|------------------|------------------|-------------------|------|---------------|---------------------------|
+| Trick Dog        | Cocktails        | Mission           | $$   | 🟢 8          | [link](#trick-dog)        |
+| True Laurel      | Cocktails        | Mission           | $$$  | 🟢 8          | [link](#true-laurel)      |
+| Buena Vista Cafe | Irish Coffee Bar | Fisherman's Wharf | $$   | 🟢🟢 9        | [link](#buena-vista-cafe) |
+| The Interval     | Bar, Cocktails   | Fort Mason        | $$   | 🟢🟢 9        | [link](#the-interval)     |
+
+# Coffee & Boba
+
+| Name               | Type               | Area          | Cost | Rating (1-10) | Link                        |
+|--------------------|--------------------|---------------|------|---------------|-----------------------------|
+| Sightglass         | Coffee             | SoMa          | $$   | 🟢🟢 10       | [link](#sightglass)         |
+| Bambu              | Boba               | Sunset Outer  | $    | 🟢 8          | [link](#bambu)              |
+| Boba Guys          | Boba               | Mission       | $    | 🟢🟢 9        | [link](#boba-guys)          |
+| Saint Frank Coffee | Coffee             | Russian Hill  | $$   | 🟢 8          | [link](#saint-frank-coffee) |
+| Motoring Coffee    | Coffee             | Polk / Marina | $$   | 🟢🟢 9        |                             |
+| Kopiku Coffee      | Coffee, Indonesian | Polk / Marina | $$   | 🟢 8          |                             |
+
+# Outdoor
+
+| Name                             | Type                | Area                    | Cost | Rating (1-10) | Link                                      |
+|----------------------------------|---------------------|-------------------------|------|---------------|-------------------------------------------|
+| Tank Hill / Sutro Tower Hike     | Urban Hike          | Cole Valley             | TODO | TODO          | [link](#tank-hill-sutro-tower-hike)       |
+| Twin Peaks Hike                  | Hike, Viewpoint     | Twin Peaks              | TODO | TODO          | [link](#twin-peaks-hike)                  |
+| Land's End                       | Coastal Hike        | Outer Richmond          | TODO | TODO          |                                           |
+| Crissy Field Beach               | Beach               | Marina/Presidio         | TODO | TODO          |                                           |
+| Presidio Tree Hike - Lovers Lane | Hike                | Presidio                | TODO | TODO          |                                           |
+| Presidio Tunnel Top Park         | Park                | Presidio                | TODO | TODO          |                                           |
+| Crane Cove Park                  | Park                | Dogpatch                | TODO | TODO          |                                           |
+| Alamo Square Park                | Park                | Alamo Square            | TODO | TODO          | [link](#alamo-square-park)                |
+| Mission Dolores Park             | Park                | Mission/Dolores Heights | TODO | TODO          |                                           |
+| Salesforce Park                  | Park (rooftop)      | SoMa                    | TODO | TODO          | [link](#salesforce-park)                  |
+| Botanical Garden                 | Garden              | Golden Gate Park        | TODO | TODO          | [link](#botanical-garden)                 |
+| Grandview Park                   | Park, Viewpoint     | Sunset                  | TODO | TODO          | [link](#grandview-park)                   |
+| Hidden Garden Steps              | Tiled Staircase     | Sunset                  | TODO | TODO          | [link](#hidden-garden-steps)              |
+| Moraga Steps                     | Tiled Staircase     | Sunset                  | TODO | TODO          | [link](#moraga-steps)                     |
+| Frolf in GG Park                 | Disc Golf           | Golden Gate Park        | TODO | TODO          | [link](#frolf-in-gg-park)                 |
+| Beaches (general)                | Beach               | Citywide                | TODO | TODO          |                                           |
+| Bicycling (general)              | Biking              | Citywide                | TODO | TODO          |                                           |
+| Barbary Coast Trail              | Walking Trail       | Downtown/North Beach    | TODO | TODO          | [link](#barbary-coast-trail)              |
+| Pacifica Hike                    | Hike                | Pacifica                | TODO | TODO          |                                           |
+| Thornton State Beach Hike        | Hike, Beach         | Daly City               | TODO | TODO          |                                           |
+| Pigeon Point Lighthouse          | Lighthouse, Coastal | Pescadero               | TODO | TODO          | [link](#pigeon-point-lighthouse)          |
+| Point Bonita Lighthouse          | Lighthouse, Coastal | Marin Headlands         | TODO | TODO          | [link](#point-bonita-lighthouse)          |
+| Tide Pooling: Half Moon Bay      | Tide Pooling        | Half Moon Bay           | TODO | TODO          |                                           |
+| Kayaking: Sausalito              | Kayaking            | Sausalito               | TODO | TODO          |                                           |
+| Kayaking: Mission Creek          | Kayaking            | Mission Bay             | TODO | TODO          |                                           |
+| Redwood Hike                     | Hike, Redwoods      | Marin                   | TODO | TODO          |                                           |
+| Mt Tamalpais Hiking              | Hike                | Marin                   | TODO | TODO          |                                           |
+| Angel Island Ferry               | Ferry, Hike         | Tiburon/SF Ferry Bldg   | TODO | TODO          |                                           |
+
+# Attractions
+
+| Name                             | Type                      | Area              | Cost | Rating (1-10) | Link                                      |
+|----------------------------------|---------------------------|-------------------|------|---------------|-------------------------------------------|
+| Aquarium of the Bay              | Aquarium                  | Fisherman's Wharf | TODO | TODO          |                                           |
+| Alcatraz                         | Historic Site, Tour       | Alcatraz Island   | TODO | TODO          |                                           |
+| Peephole Cinema                  | Art Installation          | Mission           | TODO | TODO          | [link](#peephole-cinema)                  |
+| De Young Museum Observatory      | Museum, Observation Tower | Golden Gate Park  | TODO | TODO          |                                           |
+| Japantown                        | Neighborhood, Shopping    | Japantown         | TODO | TODO          | [link](#japantown)                        |
+| California Academy of Sciences   | Museum                    | Golden Gate Park  | TODO | TODO          |                                           |
+| Exploratorium                    | Museum                    | Embarcadero       | TODO | TODO          |                                           |
+| Asian Art Museum                 | Museum                    | Civic Center      | TODO | TODO          |                                           |
+| Conservatory of Flowers          | Garden, Museum            | Golden Gate Park  | TODO | TODO          |                                           |
+| Musee Mecanique                  | Museum, Arcade            | Fisherman's Wharf | TODO | TODO          | [link](#musee-mecanique)                  |
+| 826 Valencia Pirate Supply Store | Shop, Novelty             | Mission           | TODO | TODO          |                                           |
+| Mission Murals                   | Public Art                | Mission           | TODO | TODO          | [link](#mission-murals)                   |
+| Golden Gate Bridge               | Landmark                  | Presidio/Marin    | TODO | TODO          |                                           |
+| Cable Cars                       | Landmark, Transit         | Citywide          | TODO | TODO          |                                           |
+| Coit Tower                       | Tower, Viewpoint          | Telegraph Hill    | TODO | TODO          |                                           |
+
+# Fun
+
+| Name                       | Type               | Area                   | Cost | Rating (1-10) | Link                                |
+|----------------------------|--------------------|------------------------|------|---------------|-------------------------------------|
+| SF Giants Game             | Sports             | Oracle Park, SoMa      | TODO | TODO          |                                     |
+| Stern Grove Music Festival | Music Festival     | Stern Grove            | TODO | TODO          | [link](#stern-grove-music-festival) |
+| Ferris Wheel               | Ride               | Fisherman's Wharf      | TODO | TODO          |                                     |
+| Presidio Pet Cemetery      | Quirky Site        | Presidio               | TODO | TODO          |                                     |
+| Yerba Buena Music          | Music, Festival    | Yerba Buena Gardens    | TODO | TODO          |                                     |
+| Free Gold Watch            | Print Shop, Arcade | Haight-Ashbury         | TODO | TODO          | [link](#free-gold-watch)            |
+| The Magic Patio            | Magic Show Venue   | Mission/Bernal Heights | TODO | TODO          | [link](#the-magic-patio)            |
+| Spark Mini Golf            | Mini Golf          | SoMa                   | TODO | TODO          |                                     |
+| The Chapel                 | Music Venue        | Mission                | TODO | TODO          |                                     |
 
 # Detailed Notes
 
@@ -426,6 +521,12 @@ A decent option if you need food at Fisherman's Wharf. Shrimp & Chips = ok, not 
 
 [Map](https://www.google.com/maps/search/?api=1&query=Dumpling+Home+San+Francisco+CA)
 
+## Marufuku Ramen
+
+Popular tonkotsu ramen spot inside the Japan Center mall, expect a wait.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Marufuku+Ramen+San+Francisco+CA)
+
 ## Mochill Mochi Donuts
 
 Ok, not great. Overpriced.
@@ -442,7 +543,8 @@ Ok, not great. Overpriced.
 
 ## Greens
 
-Good, interesting vegetarian, but a bit pricey.
+- Good, interesting vegetarian in a great ambiance (at Ft Mason)
+- A bit pricey
 
 [Map](https://www.google.com/maps/search/?api=1&query=Greens+San+Francisco+CA)
 
@@ -454,6 +556,12 @@ Good, interesting vegetarian, but a bit pricey.
 - ajiaco = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=MaMo+San+Francisco+CA)
+
+## The Marshall Store
+
+Oyster bar/general store on Tomales Bay; good day trip for fresh oysters.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Marshall+Store+Marshall+CA)
 
 ## Sanguchon Eatery
 
@@ -479,12 +587,6 @@ Deep dish
 - Chorizo pizza = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Beretta+San+Francisco+CA)
-
-## Trick Dog
-
-Trick Dog, Kale Salad, Nuggets = very good
-
-[Map](https://www.google.com/maps/search/?api=1&query=Trick+Dog+San+Francisco+CA)
 
 ## Radio Habana Social Club
 
@@ -527,7 +629,7 @@ Too much going on, didn't pop
 ## Taqueria el Buen Sabor
 
 - Special Chkn Burrito = 7/10
-- Special carnitas burrito = 8/10
+- Special carnitas burrito = 10/10
 
 [Map](https://www.google.com/maps/search/?api=1&query=Taqueria+el+Buen+Sabor+San+Francisco+CA)
 
@@ -764,6 +866,24 @@ Good, not great. Try the Pozole?
 
 [Map](https://www.google.com/maps/search/?api=1&query=Hem+by+Lequy+San+Francisco+CA)
 
+## Dandelion Chocolate
+
+Mission chocolate maker; cafe drinks and chocolate bars.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Dandelion+Chocolate+San+Francisco+CA)
+
+## Bi-Rite Creamery
+
+Beloved Mission ice cream shop, expect a line.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bi-Rite+Creamery+San+Francisco+CA)
+
+## Humphry Slocombe
+
+Quirky, inventive ice cream flavors.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Humphry+Slocombe+San+Francisco+CA)
+
 ## Cavaña Rooftop Lounge
 
 - ceviche classico = excellent
@@ -904,6 +1024,15 @@ Combo: Hard bread, ingred were fine but didn't "pop"
 
 [Map](https://www.google.com/maps/search/?api=1&query=Banh+Mi+House+San+Francisco+CA)
 
+## The Morris
+
+- Great wines and good cocktails
+- Roasted Duck = excellent
+- Mouse Liver Pâté = excellent
+- Buckwheat Donuts = excellent
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Morris+San+Francisco+CA)
+
 ## Ganim's
 
 Tasty, greasy burgers. Dave's = very good
@@ -955,7 +1084,8 @@ Falafel sandwich = good tahini, med everything else
 
 ## Burmese Kitchen
 
-Burmese Falafel = surprisingly good
+- Burmese Falafel = surprisingly good
+- Tea leaf salad = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Burmese+Kitchen+San+Francisco+CA)
 
@@ -1040,6 +1170,12 @@ Good burger and sweet potato fries, but nothing to write home about
 Not worth the wait
 
 [Map](https://www.google.com/maps/search/?api=1&query=Mandalay+San+Francisco+CA)
+
+## Garden Creamery
+
+Asian-inspired ice cream flavors in the Inner Richmond.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Garden+Creamery+San+Francisco+CA)
 
 ## Lung Fung Bakery
 
@@ -1229,6 +1365,8 @@ Feels a bit over-priced, but recently a better value? Minced Katsu Sando = aweso
 
 ## Rooh
 
+Pricey, but good
+
 - black dairy dal = great
 - jackfruit tacos = very good
 - paneer pinwheel = solid
@@ -1316,12 +1454,6 @@ Low-key ambiance. Dal = undercooked, underflavored, too salty. Nan = good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Tikka+Masala+San+Francisco+CA)
 
-## Fresca
-
-Good, but a little pricey for what you get
-
-[Map](https://www.google.com/maps/search/?api=1&query=Fresca+San+Francisco+CA)
-
 ## Manna
 
 - Gr8 = seafood pancake, bibimbop
@@ -1388,12 +1520,6 @@ Chicken Shwarma plate = good
 - fish n chips = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Hook+Fish+San+Francisco+CA)
-
-## Terra Cotta Warrior
-
-TODO: Ban Ban (?) noodles
-
-[Map](https://www.google.com/maps/search/?api=1&query=Terra+Cotta+Warrior+San+Francisco+CA)
 
 ## Le Trio
 
@@ -1468,12 +1594,6 @@ BBQ Pork banh mi = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Banwich+San+Francisco+CA)
 
-## Del Poppolo
-
-Todo: Margarita + Pepperoni, Anchovy
-
-[Map](https://www.google.com/maps/search/?api=1&query=Del+Poppolo+San+Francisco+CA)
-
 ## Pearl's Deluxe Burgers
 
 - Deluxe burger + bacon + cheese = good
@@ -1506,3 +1626,169 @@ Ca Kho To recommended by Uber driver
 - long waits
 
 [Map](https://www.google.com/maps/search/?api=1&query=Brenda%27s+French+Soul+Food+San+Francisco+CA)
+
+## Trick Dog
+
+Trick Dog, Kale Salad, Nuggets = very good
+
+[Map](https://www.google.com/maps/search/?api=1&query=Trick+Dog+Mission)
+
+## True Laurel
+
+Cocktail bar from the Trick Dog team.
+
+[Map](https://www.google.com/maps/search/?api=1&query=True+Laurel+Mission)
+
+## Buena Vista Cafe
+
+Famous Irish coffee, est. 1952, near Fisherman's Wharf.
+
+- Fun vibe, good mix of tourists and locals
+- Irish coffee
+- Ramos Gin Fizz is excellent
+
+[Map](https://www.google.com/maps/search/?api=1&query=Buena+Vista+Cafe+Fisherman%27s+Wharf)
+
+## The Interval
+
+Cocktail and cofee bar with a science theme in Ft Mason
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Interval+Fort+Mason)
+
+## Sightglass
+
+Flagship roastery/cafe in SoMa.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Sightglass+SoMa)
+
+## Bambu
+
+Vietnamese-style boba and drinks.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bambu+Outer+Sunset)
+
+## Boba Guys
+
+Original Boba Guys location.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Boba+Guys+Mission)
+
+## Saint Frank Coffee
+
+Russian Hill coffee shop.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Saint+Frank+Coffee+Russian+Hill)
+
+## Tank Hill / Sutro Tower Hike
+
+Urban hike up Tank Hill with views of Sutro Tower; combines two similar list items.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Tank+Hill+San+Francisco+CA)
+
+## Twin Peaks Hike
+
+Classic SF viewpoint hike.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Twin+Peaks+San+Francisco+CA)
+
+## Alamo Square Park
+
+Famous Painted Ladies view.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Alamo+Square+Park+San+Francisco+CA)
+
+## Salesforce Park
+
+Free rooftop park; also hosts free events.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Salesforce+Park+San+Francisco+CA)
+
+## Botanical Garden
+
+San Francisco Botanical Garden.
+
+[Map](https://www.google.com/maps/search/?api=1&query=San+Francisco+Botanical+Garden)
+
+## Grandview Park
+
+Often combined with the nearby tiled steps walk.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Grandview+Park+San+Francisco+CA)
+
+## Hidden Garden Steps
+
+16th Ave tiled steps; pairs well with Moraga Steps and Grandview Park.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Hidden+Garden+Steps+San+Francisco+CA)
+
+## Moraga Steps
+
+16th Ave tiled steps; pairs well with Hidden Garden Steps and Grandview Park.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Moraga+Steps+San+Francisco+CA)
+
+## Frolf in GG Park
+
+Disc golf course in Golden Gate Park.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Golden+Gate+Park+Disc+Golf+Course+San+Francisco+CA)
+
+## Barbary Coast Trail
+
+Self-guided 3.8mi historic walking trail with sidewalk markers.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Barbary+Coast+Trail+San+Francisco+CA)
+
+## Pigeon Point Lighthouse
+
+Coastal lighthouse south of Half Moon Bay.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Pigeon+Point+Lighthouse+Pescadero+CA)
+
+## Point Bonita Lighthouse
+
+Lighthouse in the Marin Headlands.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Point+Bonita+Lighthouse+Marin+CA)
+
+## Peephole Cinema
+
+Artsy mini movie installation.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Peephole+Cinema+San+Francisco+CA)
+
+## Japantown
+
+See also Marufuku Ramen and other Japantown restaurants in the Food section.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Japantown+San+Francisco+CA)
+
+## Musee Mecanique
+
+Antique coin-op arcade museum.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Musee+Mecanique+San+Francisco+CA)
+
+## Mission Murals
+
+Clarion Alley / Balmy Alley murals.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Clarion+Alley+Murals+San+Francisco+CA)
+
+## Stern Grove Music Festival
+
+Free summer outdoor concert series.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Stern+Grove+San+Francisco+CA)
+
+## Free Gold Watch
+
+Screen-printing t-shirt shop that also houses SF's largest pinball arcade (61+ machines).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Free+Gold+Watch+1767+Waller+St+San+Francisco+CA)
+
+## The Magic Patio
+
+Intimate underground magic theater (illusions, mind reading) built by magician Andrew Evans; BYOB.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Magic+Patio+3264+Mission+St+San+Francisco+CA)
