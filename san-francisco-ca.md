@@ -268,14 +268,18 @@
 
 # Coffee & Boba
 
-| Name               | Type               | Area          | Cost | Rating (1-10) | Link                        |
-|--------------------|--------------------|---------------|------|---------------|-----------------------------|
-| Sightglass         | Coffee             | SoMa          | $$   | 🟢🟢 10       | [link](#sightglass)         |
-| Bambu              | Boba               | Sunset Outer  | $    | 🟢 8          | [link](#bambu)              |
-| Boba Guys          | Boba               | Mission       | $    | 🟢🟢 9        | [link](#boba-guys)          |
-| Saint Frank Coffee | Coffee             | Russian Hill  | $$   | 🟢 8          | [link](#saint-frank-coffee) |
-| Motoring Coffee    | Coffee             | Polk / Marina | $$   | 🟢🟢 9        |                             |
-| Kopiku Coffee      | Coffee, Indonesian | Polk / Marina | $$   | 🟢 8          |                             |
+| Name                | Type               | Area           | Cost | Rating (1-10) | Link                         |
+|---------------------|--------------------|----------------|------|---------------|------------------------------|
+| Sightglass          | Coffee             | SoMa           | $$   | 🟢🟢 10       | [link](#sightglass)          |
+| Bambu               | Boba               | Sunset Outer   | $    | 🟢 8          | [link](#bambu)               |
+| Boba Guys           | Boba               | Mission        | $    | 🟢🟢 9        | [link](#boba-guys)           |
+| Saint Frank Coffee  | Coffee             | Russian Hill   | $$   | 🟢 8          | [link](#saint-frank-coffee)  |
+| Motoring Coffee     | Coffee             | Polk / Marina  | $$   | 🟢🟢 9        |                              |
+| Kopiku Coffee       | Coffee, Indonesian | Polk / Marina  | $$   | 🟢 8          |                              |
+| Hedge Coffee        | Coffee             | Mission        | $$   | TODO          | [link](#hedge-coffee)        |
+| Ikon Coffee         | Coffee             | Potrero Hill   | $$   | 🟢 8          | [link](#ikon-coffee)         |
+| CoffeeShop          | Coffee             | Dogpatch       | $$   | 🟢 8          | [link](#coffeeshop)          |
+| The Coffee Movement | Coffee             | Richmond Inner | $$   | 🟢🟢 9        | [link](#the-coffee-movement) |
 
 # Outdoor
 
@@ -1979,3 +1983,30 @@ Retro cocktail bar on Mission St with vintage vinyl, taxidermy decor, and live H
 - Trendy Mission crowd, can be loud
 
 [Map](https://www.google.com/maps/search/?api=1&query=Evil+Eye+Mission+St+San+Francisco+CA)
+
+## Hedge Coffee
+
+Mission coffee shop with a permanent 4,000 sq ft location on Shotwell St, built around a redwood tree in the courtyard.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Hedge+Coffee+434+Shotwell+St+San+Francisco+CA)
+
+## Ikon Coffee
+
+Specialty coffee bar in Potrero Hill known for single-origin Peruvian Geisha beans.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Ikon+Coffee+1302+22nd+St+San+Francisco+CA)
+
+## CoffeeShop
+
+Dogpatch location of this small local coffee chain.
+
+[Map](https://www.google.com/maps/search/?api=1&query=CoffeeShop+900+22nd+St+San+Francisco+CA)
+
+## The Coffee Movement
+
+Inner Richmond cafe on Balboa St known for its tasting flights and pastries.
+
+- Good coffee
+- Long lines, not a lot of seating areas
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Coffee+Movement+1737+Balboa+St+San+Francisco+CA)
