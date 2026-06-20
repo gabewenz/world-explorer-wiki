@@ -237,12 +237,34 @@
 
 # Drink (Alcohol)
 
-| Name             | Type             | Area              | Cost | Rating (1-10) | Link                      |
-|------------------|------------------|-------------------|------|---------------|---------------------------|
-| Trick Dog        | Cocktails        | Mission           | $$   | 🟢 8          | [link](#trick-dog)        |
-| True Laurel      | Cocktails        | Mission           | $$$  | 🟢 8          | [link](#true-laurel)      |
-| Buena Vista Cafe | Irish Coffee Bar | Fisherman's Wharf | $$   | 🟢🟢 9        | [link](#buena-vista-cafe) |
-| The Interval     | Bar, Cocktails   | Fort Mason        | $$   | 🟢🟢 9        | [link](#the-interval)     |
+| Name                     | Type                    | Area              | Cost | Rating (1-10) | Link                              |
+|--------------------------|-------------------------|-------------------|------|---------------|-----------------------------------|
+| Trick Dog                | Cocktails               | Mission           | $$   | 🟢 8          | [link](#trick-dog)                |
+| True Laurel              | Cocktails               | Mission           | $$$  | 🟢 8          | [link](#true-laurel)              |
+| Buena Vista Cafe         | Irish Coffee Bar        | Fisherman's Wharf | $$   | 🟢🟢 9        | [link](#buena-vista-cafe)         |
+| The Interval             | Bar, Cocktails          | Fort Mason        | $$   | 🟢🟢 9        | [link](#the-interval)             |
+| Zeitgeist                | Bar, Beer Garden        | Mission           | $$   | 🟢🟢 9        | [link](#zeitgeist)                |
+| Zam Zam                  | Cocktails, Persian      | Haight            | $$   | 🟢🟢 10       | [link](#zam-zam)                  |
+| The Alembic              | Cocktails               | Haight            | $$   | 🟢 8          | [link](#the-alembic)              |
+| The Little Shamrock      | Irish Pub               | Inner Sunset      | $$   | 🟢🟢 10       | [link](#the-little-shamrock)      |
+| Cavaña Rooftop Lounge    | Latin Fusion, Cocktails | Mission Bay       | $$   | 🟢 8          | [link](#cavaa-rooftop-lounge)     |
+| Fort Point Beer Company  | Brewery                 | Embarcadero       | $$   | TODO          | [link](#fort-point-beer-company)  |
+| Standard Deviant Brewing | Brewery                 | Mission           | $$   | 🟢 8          | [link](#standard-deviant-brewing) |
+| Bar Piccino              | Wine Bar, Cocktails     | Dogpatch          | $$   | 🟢 8          | [link](#bar-piccino)              |
+| Dogpatch Saloon          | Bar                     | Dogpatch          | $$   | 🟢 8          | [link](#dogpatch-saloon)          |
+| Third Rail               | Cocktails               | Dogpatch          | $$   | 🟢 8          | [link](#third-rail)               |
+| Bar 821                  | Amaro Bar               | Divisadero        | $$$  | 🟢🟢 9        | [link](#bar-821)                  |
+| Horsefeather             | Cocktails               | Divisadero        | $$   | 🟢🟢 9        | [link](#horsefeather)             |
+| Bar Iris                 | Cocktails, Japanese     | Polk              | $$$  | 🟢🟢 9        | [link](#bar-iris)                 |
+| House of Shields         | Historic Bar            | FiDi              | $$   | 🟢🟢 9        | [link](#house-of-shields)         |
+| Stoa                     | Mexican, Cocktails      | Haight, Lower     | $$   | 🟢 8          | [link](#stoa)                     |
+| Noc Noc                  | Dive Bar, Beer          | Haight, Lower     | $$   | 🟢 8          | [link](#noc-noc)                  |
+| Toronado                 | Beer Bar                | Haight, Lower     | $    | 🟢 8          | [link](#toronado)                 |
+| Mosto                    | Mezcal, Tequila Bar     | Mission           | $$   | 🟢 8          | [link](#mosto)                    |
+| Lone Palm                | Cocktails, Dive Bar     | Mission           | $$   | 🟢🟢 9        | [link](#lone-palm)                |
+| The Homestead            | Bar, Whiskey            | Mission           | $$   | 🟢🟢 9        | [link](#the-homestead)            |
+| The Royal Cuckoo         | Cocktails, Live Music   | Mission           | $$   | 🟢 8          | [link](#the-royal-cuckoo)         |
+| Evil Eye                 | Cocktails               | Mission           | $$   | 🟢 8          | [link](#evil-eye)                 |
 
 # Coffee & Boba
 
@@ -505,6 +527,8 @@ A decent option if you need food at Fisherman's Wharf. Shrimp & Chips = ok, not 
 
 ## Stoa
 
+- Good cocktails and small bites
+- Trendy
 - Ceviche = excellent
 - chalupa = good
 - lamb tacos = solid
@@ -1629,7 +1653,10 @@ Ca Kho To recommended by Uber driver
 
 ## Trick Dog
 
-Trick Dog, Kale Salad, Nuggets = very good
+- Creative menus, very good cocktails
+- Very loud
+- Hard to have a conversation with bartenders, more of an impersonal "what do you want from the menu?" place
+- Trick Dog, Kale Salad, Nuggets = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Trick+Dog+Mission)
 
@@ -1792,3 +1819,163 @@ Screen-printing t-shirt shop that also houses SF's largest pinball arcade (61+ m
 Intimate underground magic theater (illusions, mind reading) built by magician Andrew Evans; BYOB.
 
 [Map](https://www.google.com/maps/search/?api=1&query=The+Magic+Patio+3264+Mission+St+San+Francisco+CA)
+
+## Zeitgeist
+
+Mission biker bar with a huge beer garden and famous Bloody Marys.
+
+- Great beer selection
+- Draws and interesting, diverse San Francisco crowd
+- Often warm and sunny in the afternoon
+- Punk/rock music, bartenders tend to be gruff and have some attitude
+- A couple of pinball machines
+
+[Map](https://www.google.com/maps/search/?api=1&query=Zeitgeist+Bar+Mission+San+Francisco+CA)
+
+## Zam Zam
+
+Persian-themed cocktail lounge on Haight St with a fun back story, known for strong drinks
+and an old-school vibe.
+
+- Cash only
+- Low-key hangout
+- A little run-down these days
+- Gin martinis are STRONG, but good
+- Beautiful horsehoe bar with a mural
+
+[Map](https://www.google.com/maps/search/?api=1&query=Zam+Zam+Haight+San+Francisco+CA)
+
+## The Alembic
+
+Upper Haight cocktail bar with an extensive whiskey selection and inventive drinks.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Alembic+Haight+San+Francisco+CA)
+
+## The Little Shamrock
+
+SF's oldest Irish bar (est. 1893); cozy neighborhood pub at the edge of Golden Gate Park.
+
+- Legit cozy and welcoming.. a great place to have a beer
+- Reasonable prices
+- Nice bartenders
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Little+Shamrock+San+Francisco+CA)
+
+## Fort Point Beer Company
+
+Presidio brewery with its public taproom at the Ferry Building.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Fort+Point+Beer+Company+Ferry+Building+San+Francisco+CA)
+
+## Standard Deviant Brewing
+
+Mission brewery on 14th St with 20+ beers on tap, pinball, and shuffleboard.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Standard+Deviant+Brewing+San+Francisco+CA)
+
+## Bar Piccino
+
+Cocktail and wine bar next to Piccino restaurant in Dogpatch.
+
+- Chill vibe
+- Great negronis (several variations)
+- Good cocktails overall
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bar+Piccino+Dogpatch+San+Francisco+CA)
+
+## Dogpatch Saloon
+
+Historic neighborhood bar (since 1912) on 3rd St; dog-friendly.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Dogpatch+Saloon+San+Francisco+CA)
+
+## Third Rail
+
+Cocktail and jerky bar tucked away near Chase Center in Dogpatch.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Third+Rail+Bar+Dogpatch+San+Francisco+CA)
+
+## Bar 821
+
+Intimate amaro-focused cocktail bar on Divisadero with 300+ amari; ring the bell to get in.
+
+- Trendy crowd
+- Can have long waits to get it
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bar+821+Divisadero+San+Francisco+CA)
+
+## Horsefeather
+
+Neighborhood cocktail bar on Divisadero with house-made syrups and eclectic small plates.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Horsefeather+Divisadero+San+Francisco+CA)
+
+## Bar Iris
+
+Upscale Japanese-inspired cocktail lounge on Upper Polk, sister bar to Nisei next door; highballs and rare whiskeys in a mid-century lounge setting.
+
+- Great cocktails, but a bit pricey
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bar+Iris+Polk+Street+San+Francisco+CA)
+
+## House of Shields
+
+Historic FiDi saloon (bar since 1908) at 39 New Montgomery, across from the Palace Hotel; once a Prohibition-era speakeasy.
+
+- More of a weekday / happy hour crowd, can be empty at other times
+- Great old-world vibe, lots of wood
+
+[Map](https://www.google.com/maps/search/?api=1&query=House+of+Shields+39+New+Montgomery+St+San+Francisco+CA)
+
+## Noc Noc
+
+Eclectic, dimly-lit dive bar in Lower Haight, unchanged since the 80s, with a solid beer/sake selection and post-apocalyptic decor.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Noc+Noc+Lower+Haight+San+Francisco+CA)
+
+## Toronado
+
+Legendary Lower Haight beer bar (since 1987) with ~50 taps and a famously deep, ever-changing list; cash only.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Toronado+Lower+Haight+San+Francisco+CA)
+
+## Mosto
+
+Tequila and mezcal bar from the Tacolicious team on Valencia St, with craft agave cocktails and a trompo for al pastor tacos.
+
+- Great mezcal selection
+- Very good Al Pastor tacos (cheap on Tuesday)
+- If you get a bartender that knows mezcal well, can be a lot of fun
+
+[Map](https://www.google.com/maps/search/?api=1&query=Mosto+741+Valencia+St+San+Francisco+CA)
+
+## Lone Palm
+
+Dive bar dressed up as a swanky Art Deco lounge on 22nd St; stiff, affordable drinks and bowls of Goldfish.
+
+- Low-key, nice place to have a drink and chat
+
+[Map](https://www.google.com/maps/search/?api=1&query=Lone+Palm+22nd+St+San+Francisco+CA)
+
+## The Homestead
+
+Victorian-era Mission bar since 1902, with a wood-burning stove, whiskey-heavy menu, and peanuts-on-the-floor tradition.
+
+- Chill, old bar with solid drinks and no attitude
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Homestead+2301+Folsom+St+San+Francisco+CA)
+
+## The Royal Cuckoo
+
+Retro cocktail bar on Mission St with vintage vinyl, taxidermy decor, and live Hammond B3 organ music most nights.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Royal+Cuckoo+Mission+St+San+Francisco+CA)
+
+## Evil Eye
+
+'70s-tinged Mission cocktail bar with velvet couches, pool table, pinball, and punchy cocktails in vintage glasses.
+
+- Good cocktails
+- Trendy Mission crowd, can be loud
+
+[Map](https://www.google.com/maps/search/?api=1&query=Evil+Eye+Mission+St+San+Francisco+CA)
