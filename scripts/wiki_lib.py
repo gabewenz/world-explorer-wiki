@@ -20,6 +20,7 @@ Not run directly; imported by the other scripts in this directory.
 """
 
 import re
+import unicodedata
 from dataclasses import dataclass, field
 
 H1_RE = re.compile(r"^# (.+)$", re.M)
@@ -106,17 +107,32 @@ def parse_file(text):
     return WikiFile(tables=tables, notes=notes, preamble=preamble)
 
 
+def display_width(s):
+    """Approximate the monospace column width of `s`.
+
+    Rating-column emoji (🧐, ⭐, 🟢, 🟡, 🟠, ⚪) are Unicode East Asian Width
+    'W' (wide): they render as 2 columns in a plain text editor even though
+    Python's `len()` counts each as 1 character. Padding with `len()` alone
+    would make the column 1 column narrower than its visual width.
+    """
+    return sum(2 if unicodedata.east_asian_width(ch) in ("W", "F") else 1 for ch in s)
+
+
+def _pad(cell, width):
+    return cell + " " * (width - display_width(cell))
+
+
 def render_table(header, rows):
     """Render a header + rows back into padded markdown table lines."""
-    widths = [len(h) for h in header]
+    widths = [display_width(h) for h in header]
     for row in rows:
         for i, cell in enumerate(row):
             if i < len(widths):
-                widths[i] = max(widths[i], len(cell))
+                widths[i] = max(widths[i], display_width(cell))
 
     def render_row(cells):
         padded = [
-            cell.ljust(widths[i]) if i < len(widths) else cell
+            _pad(cell, widths[i]) if i < len(widths) else cell
             for i, cell in enumerate(cells)
         ]
         return "| " + " | ".join(padded) + " |"
