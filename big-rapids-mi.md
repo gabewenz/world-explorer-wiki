@@ -2,17 +2,17 @@
 
 ## Summary
 
-| Name                     | Type                            | Area                    | Cost | Rating (1-10) | Link                             |
-|--------------------------|---------------------------------|-------------------------|------|---------------|----------------------------------|
-| Belle's Coffeehouse      | Cafe - Coffee                   | Downtown                | $$   | 🟢🟢 9          | [link](#belles-coffeehouse)      |
-| Big Rapids Riverwalk     | Park - Trail                    | Downtown                | Free | 🟢🟢 10         | [link](#big-rapids-riverwalk)    |
-| Blue Cow Cafe            | Restaurant - Cafe               | Downtown                | $$   | 7             | [link](#blue-cow-cafe)           |
-| Schuberg's Bar & Grill   | Restaurant - Burger             | Downtown                | $$   | 🟢🟢 9          | [link](#schubergs-bar--grill)    |
-| Taco Frida Cantina       | Restaurant - Taco               | Downtown                | $$   | TODO          | [link](#taco-frida-cantina)      |
-| The Backroom             | Cafe - Coffee                   | Downtown                | $$   | 7             | [link](#the-backroom)            |
-| Jim Crow Museum          | Museum - History                | Ferris State University | Free | 🟢 8           | [link](#jim-crow-museum)         |
-| Jersey Mike's Subs       | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8           | [link](#jersey-mikes-subs)       |
-| Fatbelly Deli & Creamery | Restaurant - Sandwich/Ice Cream | Stanwood                | $$   | 🟢 8           | [link](#fatbelly-deli--creamery) |
+| Name                     | Type                            | Area                    | Cost | 🧐 Rating | Link                             |
+|--------------------------|---------------------------------|-------------------------|------|-----------|----------------------------------|
+| Belle's Coffeehouse      | Cafe - Coffee                   | Downtown                | $$   | ⭐ 9      | [link](#belles-coffeehouse)      |
+| Big Rapids Riverwalk     | Park - Trail                    | Downtown                | Free | ⭐ 10     | [link](#big-rapids-riverwalk)    |
+| Blue Cow Cafe            | Restaurant - Cafe               | Downtown                | $$   | 🟡 7      | [link](#blue-cow-cafe)           |
+| Schuberg's Bar & Grill   | Restaurant - Burger             | Downtown                | $$   | ⭐ 9      | [link](#schubergs-bar--grill)    |
+| Taco Frida Cantina       | Restaurant - Taco               | Downtown                | $$   | ⚪ TODO   | [link](#taco-frida-cantina)      |
+| The Backroom             | Cafe - Coffee                   | Downtown                | $$   | 🟡 7      | [link](#the-backroom)            |
+| Jim Crow Museum          | Museum - History                | Ferris State University | Free | 🟢 8      | [link](#jim-crow-museum)         |
+| Jersey Mike's Subs       | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8      | [link](#jersey-mikes-subs)       |
+| Fatbelly Deli & Creamery | Restaurant - Sandwich/Ice Cream | Stanwood                | $$   | 🟢 8      | [link](#fatbelly-deli--creamery) |
 
 # Detailed Notes
 

@@ -70,11 +70,11 @@ text editor, not just when rendered.
 
 ## Summary
 
-| Name             | Type       | Area     | Cost | Rating (1-10)  | Link                      |
-|------------------|------------|----------|------|----------------|---------------------------|
-| Other Restaurant | Restaurant | Downtown | $$$$ | 🟢 8           | [link](#other-restaurant) |
-| Example Place    | Museum     | Midtown  | $$   | TODO           | [link](#example-place)    |
-| Some  Restaurant | Restaurant | Uptown   | $    | 6              | [link](#some-restaurant)  |
+| Name             | Type       | Area     | Cost | 🧐 Rating | Link                      |
+|------------------|------------|----------|------|-----------|---------------------------|
+| Other Restaurant | Restaurant | Downtown | $$$$ | 🟢 8      | [link](#other-restaurant) |
+| Example Place    | Museum     | Midtown  | $$   | ⚪ TODO   | [link](#example-place)    |
+| Some  Restaurant | Restaurant | Uptown   | $    | 🟡 6      | [link](#some-restaurant)  |
 
 # Detailed Notes
 
@@ -117,9 +117,18 @@ For food and drink tables, a `Cost` column is used with `Free` / `$` / `$$` / `$
 
 ### Rating
 
-Use `TODO` until a place has been tried. Once rated 1-10, places scoring 8 or higher should
-be prefixed with a green-circle marker to make standouts scannable: `🟢` for 8, `🟢🟢` for
-9-10. Leave ratings below 8 as a plain number with no marker.
+The `Rating` column header is `🧐 Rating` , and every row in the column — including
+not-yet-rated places — is prefixed with exactly one emoji marker. Using one wide emoji per
+row, with no row left as a bare number or bare `TODO` , keeps the column a consistent
+visual width when scanning the raw Markdown in a plain text editor:
+
+| Marker | Meaning   |
+|--------|-----------|
+| `⚪`    | `TODO` — not yet rated |
+| `🟠`    | 1-5       |
+| `🟡`    | 6-7       |
+| `🟢`    | 8         |
+| `⭐`    | 9-10      |
 
 ### Type
 
