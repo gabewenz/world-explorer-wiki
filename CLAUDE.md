@@ -43,30 +43,46 @@ markdown editor.
 
 ### File Contents
 
-Each file starts with one or more tables of things, for a concise reference. Keep summary
-tables short — notes and links live in a `Detailed Notes` section below, with one
-sub-section per place, and each table's `Link` column points to that sub-section by anchor.
+Each file has exactly two top-level (`#`) sections, in this order: `# Tables` and
+`# Detailed Notes`.
 
-For a small file, use a single `# Summary` table. Once a file grows large enough that one
-table becomes unwieldy (dozens of restaurants plus bars, cafés, parks, etc.), split it into
-one table per category instead, each under its own heading (e.g. `# Restaurants`,
-`# Drink (Alcohol)`, `# Coffee & Boba`, `# Outdoor`, `# Attractions`, `# Fun`). All tables
-still come before the single shared `# Detailed Notes` section.
+`# Tables` holds one or more summary tables, each under its own `##` heading — the heading
+text is a free-form category name (e.g. `## Restaurants`, `## Attractions`, `## Fun`).
+There's no fixed list of categories: a small file might have just one table (`##
+Summary`), a large file can have as many category tables as it needs. This structure (one
+H1 wrapping all `##` category tables) lets a script discover the categories in a file just
+by reading its headings, with no hardcoded enum to keep in sync — see
+`scripts/list_categories.py`.
+
+`# Detailed Notes` holds notes and links, with one `##` sub-section per place. Each table's
+`Link` column points to the matching sub-section by anchor. Keep summary tables short — put
+notes and links in `Detailed Notes`, not in the table.
+
+Within each table, sort rows alphabetically by the `Area` column (ties broken by `Name`).
+This keeps things scannable by neighborhood and gives inserts a deterministic place to go.
 
 Pad each column with spaces so the raw Markdown stays aligned and easy to scan in a plain
 text editor, not just when rendered.
 
 ```markdown
 
-# Summary
+# Tables
+
+## Summary
 
 | Name             | Type       | Area     | Cost | Rating (1-10)  | Link                      |
 |------------------|------------|----------|------|----------------|---------------------------|
-| Example Place    | Museum     | Downtown | $$   | TODO           | [link](#example-place)    |
+| Other Restaurant | Restaurant | Downtown | $$$$ | 🟢 8           | [link](#other-restaurant) |
+| Example Place    | Museum     | Midtown  | $$   | TODO           | [link](#example-place)    |
 | Some  Restaurant | Restaurant | Uptown   | $    | 6              | [link](#some-restaurant)  |
-| Other Restaurant | Restaurant | Midtown  | $$$$ | 🟢 8           | [link](#other-restaurant) |
 
 # Detailed Notes
+
+## Other Restaurant
+
+Great appetizers; expensive. Some information about dishes tried.
+
+[Map](https://example.com)
 
 ## Example Place
 
@@ -107,7 +123,7 @@ be prefixed with a green-circle marker to make standouts scannable: `🟢` for 8
 
 ### Type
 
-When a file uses a single combined `# Summary` table, use a `Category - Subtype` format
+When a file has just one combined `## Summary` table, use a `Category - Subtype` format
 when a finer distinction is useful, e.g. `Cafe - Coffee`, `Restaurant - Taco`,
 `Museum - Art`. Fall back to just the category if no finer distinction is needed.
 
@@ -132,3 +148,18 @@ Example:
 ```
 
 Prefer a map link when adding only one link.
+
+## Scripts
+
+`scripts/` holds small Python helpers for working with these files programmatically:
+
+- `scripts/wiki_lib.py` — shared parsing/rendering library (not run directly): reads a
+  file's `# Tables` / `# Detailed Notes` structure, parses/renders padded tables, and
+  computes GitHub-style heading slugs.
+- `scripts/list_categories.py FILE...` — lists each file's category tables (the `##`
+  headings under `# Tables`) and their row counts.
+- `scripts/list_anchors.py FILE...` — lists every anchor (slugged `##` heading) under
+  `# Detailed Notes` in each file, and flags any duplicate slugs within a file — check this
+  before adding a place whose name might collide with an existing anchor.
+- `scripts/normalize_tables.py FILE...` — re-sorts every table's rows alphabetically by `Area` and
+  re-pads columns to stay aligned. Prints a diff by default; pass `--write` to apply.
