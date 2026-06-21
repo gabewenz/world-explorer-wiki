@@ -7,7 +7,7 @@
 | Eiji                         | Japanese                    | Castro            | $$   | 🟢 8          | [link](#eiji)                      |
 | Golden Star                  | Vietnamese                  | Chinatown         | $    | 🟢 8          | [link](#golden-star)               |
 | Hang Ah                      | DimSum                      | Chinatown         | TODO | TODO          | [link](#hang-ah)                   |
-| Golden Gate Bakery           | Chinese Bakery              | Chinatown         | $    | 8             |                                    |
+| Golden Gate Bakery           | Chinese Bakery              | Chinatown         | $    | 🟢 8          |                                    |
 | Himalayan Pizza & Momos      | Indian Pizza                | Civic Center      | $$   | TODO          |                                    |
 | Say Cheese                   | Cheese, Sandwiches          | Cole Valley       | $$   | 6             | [link](#say-cheese)                |
 | Serpentine                   | Brunch                      | Dogpatch          | TODO | TODO          | [link](#serpentine)                |
@@ -76,8 +76,8 @@
 | El Tepa Taqueria             | Mexican                     | Mission           | $$   | 6             | [link](#el-tepa-taqueria)          |
 | Tortas Los Picudos           | Mexican, Sandwiches         | Mission           | $$   | 6             | [link](#tortas-los-picudos)        |
 | Donaji                       | Mexican, Oaxacan            | Mission           | $$   | 🟢 8          | [link](#donaji)                    |
-| La Oaxaqueña                 | Mexican, Tacos              | Mission           | $    | TODO          | [link](#la-oaxaquea)               |
-| Taqueria El Patrón           | Mexican, Tacos              | Mission           | $$   | 🟢 8          | [link](#taqueria-el-patrn)         |
+| La Oaxaqueña                 | Mexican, Tacos              | Mission           | $    | TODO          | [link](#la-oaxaqueña)              |
+| Taqueria El Patrón           | Mexican, Tacos              | Mission           | $$   | 🟢 8          | [link](#taqueria-el-patrón)        |
 | Udupi Palace                 | South Indian, Dosas         | Mission           | $$   | 🟢🟢 10       |                                    |
 | Bon, Nene                    | Japanese, Comfort           | Mission           | $$   | 🟢 8          | [link](#bon-nene)                  |
 | Tacos del barrio             | Mexican, Tacos              | Mission           | $$   | 6             | [link](#tacos-del-barrio)          |
@@ -90,7 +90,7 @@
 | Bi-Rite Creamery             | Ice Cream                   | Mission           | $$   | TODO          | [link](#bi-rite-creamery)          |
 | Humphry Slocombe             | Ice Cream                   | Mission           | $$   | TODO          | [link](#humphry-slocombe)          |
 | Hi Hat                       | Pizza                       | Mission           | TODO | TODO          |                                    |
-| Cavaña Rooftop Lounge        | Latin Fusion, cocktails     | Mission Bay       | $$   | 🟢 8          | [link](#cavaa-rooftop-lounge)      |
+| Cavaña Rooftop Lounge        | Latin Fusion, cocktails     | Mission Bay       | $$   | 🟢 8          | [link](#cavaña-rooftop-lounge)     |
 | Bistro Ember                 | Medeterranian               | Noe Valley        |      | 6             |                                    |
 | Lucinda's Deli               | Deli Sandwiches             | Nopa              | $$   | 🟢 8          | [link](#lucindas-deli)             |
 | 4505 Burgers & BBQ           | BBQ, Burgers                | Nopa              | $$   | 6             | [link](#4505-burgers--bbq)         |
@@ -247,7 +247,7 @@
 | Zam Zam                  | Cocktails, Persian      | Haight            | $$   | 🟢🟢 10       | [link](#zam-zam)                  |
 | The Alembic              | Cocktails               | Haight            | $$   | 🟢 8          | [link](#the-alembic)              |
 | The Little Shamrock      | Irish Pub               | Inner Sunset      | $$   | 🟢🟢 10       | [link](#the-little-shamrock)      |
-| Cavaña Rooftop Lounge    | Latin Fusion, Cocktails | Mission Bay       | $$   | 🟢 8          | [link](#cavaa-rooftop-lounge)     |
+| Cavaña Rooftop Lounge    | Latin Fusion, Cocktails | Mission Bay       | $$   | 🟢 8          | [link](#cavaña-rooftop-lounge)    |
 | Fort Point Beer Company  | Brewery                 | Embarcadero       | $$   | TODO          | [link](#fort-point-beer-company)  |
 | Standard Deviant Brewing | Brewery                 | Mission           | $$   | 🟢 8          | [link](#standard-deviant-brewing) |
 | Bar Piccino              | Wine Bar, Cocktails     | Dogpatch          | $$   | 🟢 8          | [link](#bar-piccino)              |
@@ -355,13 +355,6 @@
 Big sandos… small is enough! Tri-tip = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Roxie+Food+Center+San+Francisco+CA)
-
-## Good Frickin Chicken
-
-- Chkn Shwrm wrap = good
-- half chkn = good
-
-[Map](https://www.google.com/maps/search/?api=1&query=Good+Frickin+Chicken+San+Francisco+CA)
 
 ## Eiji
 

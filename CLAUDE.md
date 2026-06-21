@@ -43,9 +43,15 @@ markdown editor.
 
 ### File Contents
 
-Each file starts with a table of things, for a concise reference. Keep the summary table
-short — notes and links live in a `Detailed Notes` section below, with one sub-section per
-place, and the table's `Link` column points to that sub-section by anchor.
+Each file starts with one or more tables of things, for a concise reference. Keep summary
+tables short — notes and links live in a `Detailed Notes` section below, with one
+sub-section per place, and each table's `Link` column points to that sub-section by anchor.
+
+For a small file, use a single `# Summary` table. Once a file grows large enough that one
+table becomes unwieldy (dozens of restaurants plus bars, cafés, parks, etc.), split it into
+one table per category instead, each under its own heading (e.g. `# Restaurants`,
+`# Drink (Alcohol)`, `# Coffee & Boba`, `# Outdoor`, `# Attractions`, `# Fun`). All tables
+still come before the single shared `# Detailed Notes` section.
 
 Pad each column with spaces so the raw Markdown stays aligned and easy to scan in a plain
 text editor, not just when rendered.
@@ -54,10 +60,11 @@ text editor, not just when rendered.
 
 # Summary
 
-| Name          | Type       | Area     | Rating (1-10) | Link                      |
-|---------------|------------|----------|----------------|---------------------------|
-| Example Place | Museum     | Downtown | TODO           | [link](#example-place)    |
-| Some Restaurant | Restaurant | Uptown | 6              | [link](#some-restaurant)  |
+| Name             | Type       | Area     | Cost | Rating (1-10)  | Link                      |
+|------------------|------------|----------|------|----------------|---------------------------|
+| Example Place    | Museum     | Downtown | $$   | TODO           | [link](#example-place)    |
+| Some  Restaurant | Restaurant | Uptown   | $    | 6              | [link](#some-restaurant)  |
+| Other Restaurant | Restaurant | Midtown  | $$$$ | 🟢 8           | [link](#other-restaurant) |
 
 # Detailed Notes
 
@@ -76,14 +83,37 @@ Great appetizers; expensive. Some information about dishes tried.
 ```
 
 The `Name` column holds plain text (no link) — the section anchor lives only in the `Link`
-column, so the table stays scannable. The anchor is the place's GitHub-style heading slug
-(lowercase, spaces to hyphens, punctuation stripped).
+column, so the table stays scannable. The anchor is the place's GitHub-style heading slug:
+lowercase, spaces become hyphens, ASCII punctuation is stripped — but letters with accents
+or other diacritics (é, ñ, ó, …) are kept as-is, not dropped. Double-check generated anchors
+against this rule; silently dropping an accented letter produces a link that won't actually
+jump to the heading.
+
+Every place added to a summary table must have a corresponding `## Heading` in `Detailed
+Notes` (even if just a `[Map](...)` link with no notes yet), and vice versa — don't leave
+orphaned detail sections for places no longer in any table (e.g. after removing a closed
+business, delete its notes too).
+
+### Cost
+
+For food and drink tables, a `Cost` column is used with `Free` / `$` / `$$` / `$$$` /
+`$$$$` to indicate relative price.
+
+### Rating
+
+Use `TODO` until a place has been tried. Once rated 1-10, places scoring 8 or higher should
+be prefixed with a green-circle marker to make standouts scannable: `🟢` for 8, `🟢🟢` for
+9-10. Leave ratings below 8 as a plain number with no marker.
 
 ### Type
 
-Use a `Category - Subtype` format when a finer distinction is useful, e.g. `Cafe - Coffee`,
-`Restaurant - Taco`, `Museum - Art`. Fall back to just the category if no finer distinction
-is needed.
+When a file uses a single combined `# Summary` table, use a `Category - Subtype` format
+when a finer distinction is useful, e.g. `Cafe - Coffee`, `Restaurant - Taco`,
+`Museum - Art`. Fall back to just the category if no finer distinction is needed.
+
+When a file is split into one table per category (see above), the category is already
+implied by the table/heading, so the `Type` column should hold just the subtype or cuisine
+on its own — e.g. `Coffee`, `Chinese, Dumplings` — without repeating the category prefix.
 
 ### Links
 
