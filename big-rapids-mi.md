@@ -12,6 +12,7 @@
 | The Backroom             | Cafe - Coffee                   | Downtown                | $$   | 🟡 7      | [link](#the-backroom)            |
 | Jim Crow Museum          | Museum - History                | Ferris State University | Free | 🟢 8      | [link](#jim-crow-museum)         |
 | Jersey Mike's Subs       | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8      | [link](#jersey-mikes-subs)       |
+| Northend Riverside Park  | Park - Disc Golf                | Northend                | Free | ⭐ 9      | [link](#northend-riverside-park) |
 | Fatbelly Deli & Creamery | Restaurant - Sandwich/Ice Cream | Stanwood                | $$   | 🟢 8      | [link](#fatbelly-deli--creamery) |
 
 # Detailed Notes
@@ -79,6 +80,10 @@ American cuisine with a French twist; coffee, wine, and desserts in a historic d
 Mexican cantina serving tacos and Mexican fare on N Michigan Ave.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Taco+Frida+Cantina+121+N+Michigan+Ave+Big+Rapids+MI+49307)
+
+## Northend Riverside Park
+
+City disc golf course on the north end of town, in the park along the Muskegon River.
 
 ## Fatbelly Deli & Creamery
 
