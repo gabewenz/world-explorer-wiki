@@ -5,35 +5,35 @@
 | Name                         | Type                        | Area              | Cost | 🧐 Rating | Link                               |
 |------------------------------|-----------------------------|-------------------|------|-----------|------------------------------------|
 | Roxie Food Center            | Sandwiches                  | Balboa Park       | $$   | 🟢 8      | [link](#roxie-food-center)         |
-| United Dumplings             | Chinese, Dumplings          | Bernal Heights    | $$   | ⚪ TODO   |                                    |
+| United Dumplings             | Chinese, Dumplings          | Bernal Heights    | $$   | ? ⚪      |                                    |
 | Eiji                         | Japanese                    | Castro            | $$   | 🟢 8      | [link](#eiji)                      |
 | Golden Gate Bakery           | Chinese Bakery              | Chinatown         | $    | 🟢 8      |                                    |
 | Golden Star                  | Vietnamese                  | Chinatown         | $    | 🟢 8      | [link](#golden-star)               |
-| Hang Ah                      | DimSum                      | Chinatown         | TODO | ⚪ TODO   | [link](#hang-ah)                   |
-| Himalayan Pizza & Momos      | Indian Pizza                | Civic Center      | $$   | ⚪ TODO   |                                    |
+| Hang Ah                      | DimSum                      | Chinatown         | TODO | ? ⚪      | [link](#hang-ah)                   |
+| Himalayan Pizza & Momos      | Indian Pizza                | Civic Center      | $$   | ? ⚪      |                                    |
 | Say Cheese                   | Cheese, Sandwiches          | Cole Valley       | $$   | 🟡 6      | [link](#say-cheese)                |
 | Besharam                     | Indian                      | Dogpatch          | $$$  | 🟡 7      | [link](#besharam)                  |
 | Gilbeths Latin Fusion        | Tacos, etc                  | Dogpatch          | $$   | 🟢 8      | [link](#gilbeths-latin-fusion)     |
 | Kin Khao                     | Thai                        | Dogpatch          | $$   | 🟡 6      | [link](#kin-khao)                  |
 | Long Bridge Pizza            | Pizza, Italian              | Dogpatch          | $$   | 🟢 8      | [link](#long-bridge-pizza)         |
 | Piccino                      | Italian                     | Dogpatch          | $$$  | 🟢 8      |                                    |
-| Serpentine                   | Brunch                      | Dogpatch          | TODO | ⚪ TODO   | [link](#serpentine)                |
+| Serpentine                   | Brunch                      | Dogpatch          | TODO | ? ⚪      | [link](#serpentine)                |
 | Woolly Pig Cafe              | Sandwiches, bagels          | Dogpatch          | $$   | 🟢 8      | [link](#woolly-pig-cafe)           |
 | Flying Falafel               | Falafel                     | Downtown          | $    | 🟡 6      | [link](#flying-falafel)            |
 | Beit Rima                    | Arabian Comfort             | Duboce Triangle   | $$   | 🟡 6      | [link](#beit-rima)                 |
 | Kantine                      | Scandinavian                | Duboce Triangle   | $$   | 🟡 7      | [link](#kantine)                   |
 | La Mar                       | Peruvian, Seafood           | Embarcadero       | $$$  | 🟡 6      | [link](#la-mar)                    |
 | Lunette                      | Cambodian                   | Embarcadero       | $$   | 🟢 8      | [link](#lunette)                   |
-| Parachute Bakery             | Bakery, Viennoiserie        | Embarcadero       | TODO | ⚪ TODO   |                                    |
-| New Silver Star Deli         | Vietnamese, Sandwiches      | FiDi              | TODO | ⚪ TODO   | [link](#new-silver-star-deli)      |
+| Parachute Bakery             | Bakery, Viennoiserie        | Embarcadero       | TODO | ? ⚪      |                                    |
+| New Silver Star Deli         | Vietnamese, Sandwiches      | FiDi              | TODO | ? ⚪      | [link](#new-silver-star-deli)      |
 | Sababa                       | Falafel                     | FiDi              | $$   | 🟢 8      | [link](#sababa)                    |
 | Copra                        | Indian, Fancy               | Fillmore          | $$$  | 🟡 7      | [link](#copra)                     |
 | The Anchovy Bar              | Seafood                     | Fillmore          | $$$  | 🟡 7      | [link](#the-anchovy-bar)           |
 | Woodhouse Fish Co            | Fish (East Coast)           | Fillmore          | $$   | 🟡 6      | [link](#woodhouse-fish-co)         |
 | The Codmother                | Fish & Chips                | Fisherman's Wharf | $$   | 🟡 6      | [link](#the-codmother)             |
 | Dumpling Zone                | Chinese                     | Forrest Hill      | $$   | 🟡 6      | [link](#dumpling-zone)             |
-| La Corneta Taqueria          | Tacos, burritos             | Glen Park         | TODO | ⚪ TODO   |                                    |
-| Sandy's                      | Sandwiches                  | Haight            | TODO | ⚪ TODO   |                                    |
+| La Corneta Taqueria          | Tacos, burritos             | Glen Park         | TODO | ? ⚪      |                                    |
+| Sandy's                      | Sandwiches                  | Haight            | TODO | ? ⚪      |                                    |
 | Jules                        | Pizza                       | Haight, Lower     | $$   | 🟢 8      | [link](#jules)                     |
 | Stoa                         | Mexican, Cocktails          | Haight, Lower     | $$   | 🟢 8      | [link](#stoa)                      |
 | Dumpling Home                | Dumplings, Chinese          | Hayes Valley      | $$   | 🟢 8      | [link](#dumpling-home)             |
@@ -42,17 +42,17 @@
 | Nari                         | Thai fusion                 | Japantown         | $$$  | 🟡 6      | [link](#nari)                      |
 | Greens                       | Healthy                     | Marina            | $$$  | 🟢 8      | [link](#greens)                    |
 | MaMo                         | Colombian / Venezuelan      | Marina            | $$   | 🟢 8      | [link](#mamo)                      |
-| The Marshall Store           | Oysters, Seafood            | Marshall, CA      | $$   | ⚪ TODO   | [link](#the-marshall-store)        |
+| The Marshall Store           | Oysters, Seafood            | Marshall, CA      | $$   | ? ⚪      | [link](#the-marshall-store)        |
 | Angie's Pizza                | Pizza                       | Mission           | $$   | 🟢 8      | [link](#angies-pizza)              |
 | Atlas Cafe                   | Sandwiches                  | Mission           | $$   | 🟢 8      | [link](#atlas-cafe)                |
 | Balompie Cafe                | El Salvadorian              | Mission           | $    | 🟢 8      | [link](#balompie-cafe)             |
 | Basa Seafood Express         | Seafood, Sushi              | Mission           | $    | 🟡 6      | [link](#basa-seafood-express)      |
 | Base Camp                    | Nepalese / Indian           | Mission           | $$   | 🟡 7      | [link](#base-camp)                 |
 | Beretta                      | Pizza                       | Mission           | $$   | 🟢 8      | [link](#beretta)                   |
-| Bi-Rite Creamery             | Ice Cream                   | Mission           | $$   | ⚪ TODO   | [link](#bi-rite-creamery)          |
+| Bi-Rite Creamery             | Ice Cream                   | Mission           | $$   | ? ⚪      | [link](#bi-rite-creamery)          |
 | Bon, Nene                    | Japanese, Comfort           | Mission           | $$   | 🟢 8      | [link](#bon-nene)                  |
 | Cafe Ethiopia                | Ethiopian                   | Mission           | $$   | 🟡 6      | [link](#cafe-ethiopia)             |
-| Dandelion Chocolate          | Chocolate, Cafe             | Mission           | $$   | ⚪ TODO   | [link](#dandelion-chocolate)       |
+| Dandelion Chocolate          | Chocolate, Cafe             | Mission           | $$   | ? ⚪      | [link](#dandelion-chocolate)       |
 | Deccan Spice                 | South Indian                | Mission           | $$   | 🟡 6      | [link](#deccan-spice)              |
 | Delfina Pizzeria             | Pizza                       | Mission           | $$   | 🟡 6      |                                    |
 | Donaji                       | Mexican, Oaxacan            | Mission           | $$   | 🟢 8      | [link](#donaji)                    |
@@ -60,11 +60,11 @@
 | El Tepa Taqueria             | Mexican                     | Mission           | $$   | 🟡 6      | [link](#el-tepa-taqueria)          |
 | Gallardo's Mexican Rest      | Mexican                     | Mission           | $    | 🟡 6      | [link](#gallardos-mexican-rest)    |
 | Hem by Lequy                 | Vietnamese                  | Mission           | $$   | 🟢 8      | [link](#hem-by-lequy)              |
-| Hi Hat                       | Pizza                       | Mission           | TODO | ⚪ TODO   |                                    |
-| Humphry Slocombe             | Ice Cream                   | Mission           | $$   | ⚪ TODO   | [link](#humphry-slocombe)          |
+| Hi Hat                       | Pizza                       | Mission           | TODO | ? ⚪      |                                    |
+| Humphry Slocombe             | Ice Cream                   | Mission           | $$   | ? ⚪      | [link](#humphry-slocombe)          |
 | Kolapasi                     | South Indian                | Mission           | $$   | 🟢 8      | [link](#kolapasi)                  |
 | Komaaj                       | Persian, Norther Iran       | Mission           | $$   | 🟢 8      | [link](#komaaj)                    |
-| La Oaxaqueña                 | Mexican, Tacos              | Mission           | $    | ⚪ TODO   | [link](#la-oaxaqueña)              |
+| La Oaxaqueña                 | Mexican, Tacos              | Mission           | $    | ? ⚪      | [link](#la-oaxaqueña)              |
 | Limon                        | Peruvian, Chicken           | Mission           | $$   | 🟢 8      | [link](#limon)                     |
 | Little Star Pizza            | Pizza                       | Mission           | $$   | 🟢 8      | [link](#little-star-pizza)         |
 | Los Shucos Latin Hot Dogs    | Hot dogs                    | Mission           | $    | 🟡 6      | [link](#los-shucos-latin-hot-dogs) |
@@ -72,7 +72,7 @@
 | Montella Pizza               | Pizza                       | Mission           | $$   | 🟡 6      | [link](#montella-pizza)            |
 | Newkirk's                    | Sandwiches                  | Mission           | $$   | 🟡 7      | [link](#newkirks)                  |
 | Paprika                      | East European               | Mission           | $$   | 🟢 8      | [link](#paprika)                   |
-| Pink Onion                   | Pizza                       | Mission           | $$   | ⚪ TODO   |                                    |
+| Pink Onion                   | Pizza                       | Mission           | $$   | ? ⚪      |                                    |
 | Prubechu                     | Guamian                     | Mission           | $$$  | 🟡 6      | [link](#prubechu)                  |
 | Radio Habana Social Club     | Cuban, music                | Mission           | $$   | 🟡 6      | [link](#radio-habana-social-club)  |
 | Rhea's                       | Deli Sandwiches             | Mission           | $$   | 🟢 8      | [link](#rheas)                     |
@@ -106,19 +106,19 @@
 | Il Casaro Pizzeria           | Italian, Pizza Napolitana   | North Beach       | $$   | 🟢 8      |                                    |
 | Il Pollaio                   | Italian / Argentine Chicken | North Beach       | $$   | 🟡 7      | [link](#il-pollaio)                |
 | Mo's Grill                   | Burger                      | North Beach       | $$   | 🟡 6      | [link](#mos-grill)                 |
-| The Italian Homemade Co      | Italian pasta               | North Beach       | $$   | ⚪ TODO   |                                    |
+| The Italian Homemade Co      | Italian pasta               | North Beach       | $$   | ? ⚪      |                                    |
 | Tony's Pizza Napoletana      | Pizza                       | North Beach       | $$   | 🟢 8      | [link](#tonys-pizza-napoletana)    |
 | Trestle                      | New American                | North Beach       | $$$  | 🟡 7      | [link](#trestle)                   |
 | Yarsa Nepalese               | Indian / Nepalese           | North Beach       | $$   | 🟡 6      | [link](#yarsa-nepalese)            |
-| Roam                         | Burgers                     | Pac Heights       | TODO | ⚪ TODO   |                                    |
+| Roam                         | Burgers                     | Pac Heights       | TODO | ? ⚪      |                                    |
 | Ben Thai Cafe                | Thai                        | Polk              | $$   | 🟡 6      | [link](#ben-thai-cafe)             |
 | Helmand Palace               | Afghan, Kabobs              | Polk              | $$   | 🟢 8      | [link](#helmand-palace)            |
-| Karam                        | Mediterranean               | Polk              | TODO | ⚪ TODO   |                                    |
+| Karam                        | Mediterranean               | Polk              | TODO | ? ⚪      |                                    |
 | Nara                         | Sushi, Japanese             | Polk              | $$$  | 🟢 8      | [link](#nara)                      |
 | Saru                         | Sushi, Japanese             | Polk              | $$   | 🟢 8      | [link](#saru)                      |
-| Spirial                      | Oysters                     | Polk              | TODO | ⚪ TODO   |                                    |
+| Spirial                      | Oysters                     | Polk              | TODO | ? ⚪      |                                    |
 | Limoncello's                 | Italian Deli                | Polk Gulch        | $$   | 🟡 6      | [link](#limoncellos)               |
-| Swan's Oyster Bar            | Seafood, Oysters            | Polk Gulch        | TODO | ⚪ TODO   |                                    |
+| Swan's Oyster Bar            | Seafood, Oysters            | Polk Gulch        | TODO | ? ⚪      |                                    |
 | Banh Mi House                | Vietnamese Sandwiches       | Portola           | $$   | 🟡 6      | [link](#banh-mi-house)             |
 | Ganim's                      | Burgers                     | Potrero Hill      | $$   | 🟢 8      | [link](#ganims)                    |
 | La Connessa                  | Italian                     | Potrero Hill      | $$$  | 🟡 7      | [link](#la-connessa)               |
@@ -135,30 +135,30 @@
 | Cinderella Bakery & Cafe     | Russian bakery              | Richmond Inner    | $$   | 🟢 8      | [link](#cinderella-bakery--cafe)   |
 | Derm                         | Thai                        | Richmond Inner    | $$   | 🟡 6      | [link](#derm)                      |
 | Eternal Springs              | Banh Mi, Juice              | Richmond Inner    | $    | 🟡 6      | [link](#eternal-springs)           |
-| Garden Creamery              | Ice Cream                   | Richmond Inner    | $$   | ⚪ TODO   | [link](#garden-creamery)           |
+| Garden Creamery              | Ice Cream                   | Richmond Inner    | $$   | ? ⚪      | [link](#garden-creamery)           |
 | Halu                         | Japanese, Tapas             | Richmond Inner    | $$   | 🟡 7      | [link](#halu)                      |
-| Kitchen Istanbul             | Turkish                     | Richmond Inner    | $$   | ⚪ TODO   |                                    |
-| Koja Kitchen                 | Asian Fusion                | Richmond Inner    | $$   | ⚪ TODO   |                                    |
-| Konomama                     |                             | Richmond Inner    | TODO | ⚪ TODO   |                                    |
+| Kitchen Istanbul             | Turkish                     | Richmond Inner    | $$   | ? ⚪      |                                    |
+| Koja Kitchen                 | Asian Fusion                | Richmond Inner    | $$   | ? ⚪      |                                    |
+| Konomama                     |                             | Richmond Inner    | TODO | ? ⚪      |                                    |
 | Liquor Express               | Salvadorian                 | Richmond Inner    | $$   | 🟢 8      | [link](#liquor-express)            |
 | Lou's Cafe                   | Sandwiches                  | Richmond Inner    | $$   | 🟡 6      | [link](#lous-cafe)                 |
 | Mandalay                     | Burmese                     | Richmond Inner    | $$   | 🟡 6      | [link](#mandalay)                  |
 | Native Burger                | Burgers                     | Richmond Inner    | $$   | 🟡 6      | [link](#native-burger)             |
 | Tastebuds                    | Southern, Cajun             | Richmond Inner    | $$   | 🟡 7      | [link](#tastebuds)                 |
-| Tawan's Thai Food            | Thai                        | Richmond Inner    | $$   | ⚪ TODO   |                                    |
+| Tawan's Thai Food            | Thai                        | Richmond Inner    | $$   | ? ⚪      |                                    |
 | Twilight Cafe                | Middle Eastern              | Richmond Inner    | $    | 🟡 6      | [link](#twilight-cafe)             |
 | Lung Fung Bakery             | Chinese Bakery              | Richmond Middle   | $    | 🟢 8      | [link](#lung-fung-bakery)          |
-| WenChang Dumpling Restaurant | Chinese, Dumplings          | Richmond Middle   | $$   | ⚪ TODO   |                                    |
+| WenChang Dumpling Restaurant | Chinese, Dumplings          | Richmond Middle   | $$   | ? ⚪      |                                    |
 | AK Meats                     | Sandwiches                  | Richmond Outer    | $    | 🟢 8      | [link](#ak-meats)                  |
 | Amphawa                      | Thai                        | Richmond Outer    | $$   | 🟡 6      | [link](#amphawa)                   |
 | Aziza                        | Moroccan                    | Richmond Outer    | $$$  | 🟡 7      |                                    |
 | Dragon Beaux                 | Dim Sum, Hot Pot            | Richmond Outer    | $$$  | 🟢 8      |                                    |
 | Frena                        | Israeli, Bakery             | Richmond Outer    | $$   | 🟡 6      | [link](#frena)                     |
-| Han Il Kwan                  | Korean                      | Richmond Outer    | $$   | ⚪ TODO   |                                    |
+| Han Il Kwan                  | Korean                      | Richmond Outer    | $$   | ? ⚪      |                                    |
 | ilana Coffee                 | Vietnamese Sandwiches       | Richmond Outer    | $    | ⭐ 10     | [link](#ilana-coffee)              |
-| Kim Son                      | Vietnamese, Noodles         | Richmond Outer    | $    | ⚪ TODO   |                                    |
+| Kim Son                      | Vietnamese, Noodles         | Richmond Outer    | $    | ? ⚪      |                                    |
 | Lokma                        | Mediterranean               | Richmond Outer    | $$   | 🟢 8      | [link](#lokma)                     |
-| Miki                         | Ramen, Noodles              | Richmond Outer    | $$   | ⚪ TODO   |                                    |
+| Miki                         | Ramen, Noodles              | Richmond Outer    | $$   | ? ⚪      |                                    |
 | Mr Banh Mi                   | Vietnamese Sandwiches       | Richmond Outer    | $    | 🟡 7      | [link](#mr-banh-mi)                |
 | Pearl 6101                   | American (New)              | Richmond Outer    | $$   | ⭐ 9      | [link](#pearl-6101)                |
 | Pizzetta 211                 | Pizza                       | Richmond Outer    | $$   | ⭐ 10     | [link](#pizzetta-211)              |
@@ -204,10 +204,10 @@
 | Yummy Yummy                  | Vietnamese                  | Sunset Inner      | $$   | 🟢 8      | [link](#yummy-yummy)               |
 | Banwich                      | Vietnamese sandos           | Sunset Outer      | $$   | 🟢 8      | [link](#banwich)                   |
 | Bei Feng Style               | Chinese, dunplings          | Sunset Outer      | $$   | 🟠 4      | [link](#bei-feng-style)            |
-| Brothers Pizza               | Pizza, Indian               | Sunset Outer      | $    | ⚪ TODO   |                                    |
+| Brothers Pizza               | Pizza, Indian               | Sunset Outer      | $    | ? ⚪      |                                    |
 | Clancey's Market             | Sandwiches                  | Sunset Outer      | $$   | 🟡 6      | [link](#clanceys-market)           |
 | Dumpling Specialist          | Chinese                     | Sunset Outer      | $    | 🟢 8      | [link](#dumpling-specialist)       |
-| Fujiyama-Ya                  | Japenese / Sushi            | Sunset Outer      | $$   | ⚪ TODO   |                                    |
+| Fujiyama-Ya                  | Japenese / Sushi            | Sunset Outer      | $$   | ? ⚪      |                                    |
 | Hook Fish                    | Seafood, tacos              | Sunset Outer      | $$   | ⭐ 10     | [link](#hook-fish)                 |
 | House of Pancakes            | Chinese                     | Sunset Outer      | $    | 🟢 8      | [link](#house-of-pancakes)         |
 | Kevin's Noodle House         | Vietnamese, Pho             | Sunset Outer      | $    | 🟡 7      | [link](#kevins-noodle-house)       |
@@ -215,7 +215,7 @@
 | Le Trio                      | Vietnamese Sandwiches       | Sunset Outer      | $$   | 🟡 6      | [link](#le-trio)                   |
 | Outerlands                   | California Cuisine          | Sunset Outer      | $$   | 🟢 8      |                                    |
 | Pineapple King Bakery        | Chinese Bakery              | Sunset Outer      | $$   | 🟢 8      |                                    |
-| Pisces                       | California Cuisine          | Sunset Outer      | $$   | ⚪ TODO   |                                    |
+| Pisces                       | California Cuisine          | Sunset Outer      | $$   | ? ⚪      |                                    |
 | Que Huong                    | Banh mi                     | Sunset Outer      | $    | 🟢 8      | [link](#que-huong)                 |
 | Shin Toe Bul Yi              | Korean                      | Sunset Outer      | $$   | 🟡 6      | [link](#shin-toe-bul-yi)           |
 | Sunrise Deli                 | Middle Eastern              | Sunset Outer      | $    | 🟡 7      | [link](#sunrise-deli)              |
@@ -226,15 +226,15 @@
 | Thai Cottage                 | Thai                        | Sunset Outer      | $$   | 🟡 6      |                                    |
 | Thang Long                   | Seafood Vietnamese          | Sunset Outer      | $$$  | 🟡 7      |                                    |
 | Twisted Donuts               | Donuts                      | Sunset Outer      | $    | 🟡 7      | [link](#twisted-donuts)            |
-| Yuanbao Jiaozi               | Chinese Dumplings           | Sunset Outer      | $    | ⚪ TODO   |                                    |
+| Yuanbao Jiaozi               | Chinese Dumplings           | Sunset Outer      | $    | ? ⚪      |                                    |
 | Del Poppolo                  | Artisan Pizza               | Tender Nob        | $$   | 🟢 8      |                                    |
 | Fresh Brew Coffee            | Banh Mi                     | Tender Nob        | $$   | ⭐ 9      | [link](#fresh-brew-coffee)         |
-| Lapisara Earery              | Brunch, Burgers, Thai       | Tender Nob        | $$   | ⚪ TODO   |                                    |
+| Lapisara Earery              | Brunch, Burgers, Thai       | Tender Nob        | $$   | ? ⚪      |                                    |
 | Pearl's Deluxe Burgers       | Burgers                     | Tender Nob        | $$   | 🟡 7      | [link](#pearls-deluxe-burgers)     |
 | Brenda's French Soul Food    | Southern, Cajon/Creole      | Tenderloin        | $$   | 🟢 8      | [link](#brendas-french-soul-food)  |
-| Cordon Bleu                  | Vietnamese                  | Tenderloin        | TODO | ⚪ TODO   |                                    |
+| Cordon Bleu                  | Vietnamese                  | Tenderloin        | TODO | ? ⚪      |                                    |
 | Farmerbrown                  | Soul food                   | Tenderloin        | $$   | 🟡 7      | [link](#farmerbrown)               |
-| Kim Thanh                    | Vietnamese                  | Tenderloin        | $$   | ⚪ TODO   | [link](#kim-thanh)                 |
+| Kim Thanh                    | Vietnamese                  | Tenderloin        | $$   | ? ⚪      | [link](#kim-thanh)                 |
 
 ## Drink (Alcohol)
 
@@ -247,7 +247,7 @@
 | Dogpatch Saloon              | Bar                     | Dogpatch          | $$   | 🟢 8      | [link](#dogpatch-saloon)            |
 | Third Rail                   | Cocktails               | Dogpatch          | $$   | 🟢 8      | [link](#third-rail)                 |
 | Coquetta                     | Cocktails, Bay Views    | Embarcadero       | $$$  | 🟢 8      | [link](#coquetta)                   |
-| Fort Point Beer Company      | Brewery                 | Embarcadero       | $$   | ⚪ TODO   | [link](#fort-point-beer-company)    |
+| Fort Point Beer Company      | Brewery                 | Embarcadero       | $$   | ? ⚪      | [link](#fort-point-beer-company)    |
 | House of Shields             | Historic Bar            | FiDi              | $$   | ⭐ 9      | [link](#house-of-shields)           |
 | Buena Vista Cafe             | Irish Coffee Bar        | Fisherman's Wharf | $$   | ⭐ 9      | [link](#buena-vista-cafe)           |
 | The Interval                 | Bar, Cocktails          | Fort Mason        | $$   | ⭐ 9      | [link](#the-interval)               |
@@ -274,7 +274,7 @@
 | Bar Iris                     | Cocktails, Japanese     | Polk              | $$$  | ⭐ 9      | [link](#bar-iris)                   |
 | Stookey's Club Moderne       | Cocktails, Art Deco     | Polk              | $$   | 🟢 8      | [link](#stookeys-club-moderne)      |
 | Question Mark Tavern         | Dive Bar                | Russian Hill      | $    | 🟡 7      | [link](#question-mark-tavern)       |
-| PCH (Pacific Cocktail Haven) | Cocktails               | Union Square      | $$   | ⚪ TODO   | [link](#pch-pacific-cocktail-haven) |
+| PCH (Pacific Cocktail Haven) | Cocktails               | Union Square      | $$   | ? ⚪      | [link](#pch-pacific-cocktail-haven) |
 
 ## Coffee & Boba
 
@@ -282,7 +282,7 @@
 |---------------------|--------------------|----------------|------|-----------|------------------------------|
 | CoffeeShop          | Coffee             | Dogpatch       | $$   | 🟢 8      | [link](#coffeeshop)          |
 | Boba Guys           | Boba               | Mission        | $    | ⭐ 9      | [link](#boba-guys)           |
-| Hedge Coffee        | Coffee             | Mission        | $$   | ⚪ TODO   | [link](#hedge-coffee)        |
+| Hedge Coffee        | Coffee             | Mission        | $$   | ? ⚪      | [link](#hedge-coffee)        |
 | Kopiku Coffee       | Coffee, Indonesian | Polk / Marina  | $$   | 🟢 8      |                              |
 | Motoring Coffee     | Coffee             | Polk / Marina  | $$   | ⭐ 9      |                              |
 | Ikon Coffee         | Coffee             | Potrero Hill   | $$   | 🟢 8      | [link](#ikon-coffee)         |
@@ -295,68 +295,68 @@
 
 | Name                             | Type                | Area                    | Cost | 🧐 Rating | Link                                |
 |----------------------------------|---------------------|-------------------------|------|-----------|-------------------------------------|
-| Alamo Square Park                | Park                | Alamo Square            | TODO | ⚪ TODO   | [link](#alamo-square-park)          |
-| Beaches (general)                | Beach               | Citywide                | TODO | ⚪ TODO   |                                     |
-| Bicycling (general)              | Biking              | Citywide                | TODO | ⚪ TODO   |                                     |
-| Tank Hill / Sutro Tower Hike     | Urban Hike          | Cole Valley             | TODO | ⚪ TODO   | [link](#tank-hill-sutro-tower-hike) |
-| Thornton State Beach Hike        | Hike, Beach         | Daly City               | TODO | ⚪ TODO   |                                     |
-| Crane Cove Park                  | Park                | Dogpatch                | TODO | ⚪ TODO   |                                     |
-| Barbary Coast Trail              | Walking Trail       | Downtown/North Beach    | TODO | ⚪ TODO   | [link](#barbary-coast-trail)        |
-| Botanical Garden                 | Garden              | Golden Gate Park        | TODO | ⚪ TODO   | [link](#botanical-garden)           |
-| Frolf in GG Park                 | Disc Golf           | Golden Gate Park        | TODO | ⚪ TODO   | [link](#frolf-in-gg-park)           |
-| Tide Pooling: Half Moon Bay      | Tide Pooling        | Half Moon Bay           | TODO | ⚪ TODO   |                                     |
-| Mt Tamalpais Hiking              | Hike                | Marin                   | TODO | ⚪ TODO   |                                     |
-| Redwood Hike                     | Hike, Redwoods      | Marin                   | TODO | ⚪ TODO   |                                     |
-| Point Bonita Lighthouse          | Lighthouse, Coastal | Marin Headlands         | TODO | ⚪ TODO   | [link](#point-bonita-lighthouse)    |
-| Crissy Field Beach               | Beach               | Marina/Presidio         | TODO | ⚪ TODO   |                                     |
-| Kayaking: Mission Creek          | Kayaking            | Mission Bay             | TODO | ⚪ TODO   |                                     |
-| Mission Dolores Park             | Park                | Mission/Dolores Heights | TODO | ⚪ TODO   |                                     |
-| Land's End                       | Coastal Hike        | Outer Richmond          | TODO | ⚪ TODO   |                                     |
-| Pacifica Hike                    | Hike                | Pacifica                | TODO | ⚪ TODO   |                                     |
-| Pigeon Point Lighthouse          | Lighthouse, Coastal | Pescadero               | TODO | ⚪ TODO   | [link](#pigeon-point-lighthouse)    |
-| Presidio Tree Hike - Lovers Lane | Hike                | Presidio                | TODO | ⚪ TODO   |                                     |
-| Presidio Tunnel Top Park         | Park                | Presidio                | TODO | ⚪ TODO   |                                     |
-| Kayaking: Sausalito              | Kayaking            | Sausalito               | TODO | ⚪ TODO   |                                     |
-| Salesforce Park                  | Park (rooftop)      | SoMa                    | TODO | ⚪ TODO   | [link](#salesforce-park)            |
-| Grandview Park                   | Park, Viewpoint     | Sunset                  | TODO | ⚪ TODO   | [link](#grandview-park)             |
-| Hidden Garden Steps              | Tiled Staircase     | Sunset                  | TODO | ⚪ TODO   | [link](#hidden-garden-steps)        |
-| Moraga Steps                     | Tiled Staircase     | Sunset                  | TODO | ⚪ TODO   | [link](#moraga-steps)               |
-| Angel Island Ferry               | Ferry, Hike         | Tiburon/SF Ferry Bldg   | TODO | ⚪ TODO   |                                     |
-| Twin Peaks Hike                  | Hike, Viewpoint     | Twin Peaks              | TODO | ⚪ TODO   | [link](#twin-peaks-hike)            |
+| Alamo Square Park                | Park                | Alamo Square            | TODO | ? ⚪      | [link](#alamo-square-park)          |
+| Beaches (general)                | Beach               | Citywide                | TODO | ? ⚪      |                                     |
+| Bicycling (general)              | Biking              | Citywide                | TODO | ? ⚪      |                                     |
+| Tank Hill / Sutro Tower Hike     | Urban Hike          | Cole Valley             | TODO | ? ⚪      | [link](#tank-hill-sutro-tower-hike) |
+| Thornton State Beach Hike        | Hike, Beach         | Daly City               | TODO | ? ⚪      |                                     |
+| Crane Cove Park                  | Park                | Dogpatch                | TODO | ? ⚪      |                                     |
+| Barbary Coast Trail              | Walking Trail       | Downtown/North Beach    | TODO | ? ⚪      | [link](#barbary-coast-trail)        |
+| Botanical Garden                 | Garden              | Golden Gate Park        | TODO | ? ⚪      | [link](#botanical-garden)           |
+| Frolf in GG Park                 | Disc Golf           | Golden Gate Park        | TODO | ? ⚪      | [link](#frolf-in-gg-park)           |
+| Tide Pooling: Half Moon Bay      | Tide Pooling        | Half Moon Bay           | TODO | ? ⚪      |                                     |
+| Mt Tamalpais Hiking              | Hike                | Marin                   | TODO | ? ⚪      |                                     |
+| Redwood Hike                     | Hike, Redwoods      | Marin                   | TODO | ? ⚪      |                                     |
+| Point Bonita Lighthouse          | Lighthouse, Coastal | Marin Headlands         | TODO | ? ⚪      | [link](#point-bonita-lighthouse)    |
+| Crissy Field Beach               | Beach               | Marina/Presidio         | TODO | ? ⚪      |                                     |
+| Kayaking: Mission Creek          | Kayaking            | Mission Bay             | TODO | ? ⚪      |                                     |
+| Mission Dolores Park             | Park                | Mission/Dolores Heights | TODO | ? ⚪      |                                     |
+| Land's End                       | Coastal Hike        | Outer Richmond          | TODO | ? ⚪      |                                     |
+| Pacifica Hike                    | Hike                | Pacifica                | TODO | ? ⚪      |                                     |
+| Pigeon Point Lighthouse          | Lighthouse, Coastal | Pescadero               | TODO | ? ⚪      | [link](#pigeon-point-lighthouse)    |
+| Presidio Tree Hike - Lovers Lane | Hike                | Presidio                | TODO | ? ⚪      |                                     |
+| Presidio Tunnel Top Park         | Park                | Presidio                | TODO | ? ⚪      |                                     |
+| Kayaking: Sausalito              | Kayaking            | Sausalito               | TODO | ? ⚪      |                                     |
+| Salesforce Park                  | Park (rooftop)      | SoMa                    | TODO | ? ⚪      | [link](#salesforce-park)            |
+| Grandview Park                   | Park, Viewpoint     | Sunset                  | TODO | ? ⚪      | [link](#grandview-park)             |
+| Hidden Garden Steps              | Tiled Staircase     | Sunset                  | TODO | ? ⚪      | [link](#hidden-garden-steps)        |
+| Moraga Steps                     | Tiled Staircase     | Sunset                  | TODO | ? ⚪      | [link](#moraga-steps)               |
+| Angel Island Ferry               | Ferry, Hike         | Tiburon/SF Ferry Bldg   | TODO | ? ⚪      |                                     |
+| Twin Peaks Hike                  | Hike, Viewpoint     | Twin Peaks              | TODO | ? ⚪      | [link](#twin-peaks-hike)            |
 
 ## Attractions
 
 | Name                             | Type                      | Area              | Cost | 🧐 Rating | Link                     |
 |----------------------------------|---------------------------|-------------------|------|-----------|--------------------------|
-| Alcatraz                         | Historic Site, Tour       | Alcatraz Island   | TODO | ⚪ TODO   |                          |
-| Cable Cars                       | Landmark, Transit         | Citywide          | TODO | ⚪ TODO   |                          |
-| Asian Art Museum                 | Museum                    | Civic Center      | TODO | ⚪ TODO   |                          |
-| Exploratorium                    | Museum                    | Embarcadero       | TODO | ⚪ TODO   |                          |
-| Aquarium of the Bay              | Aquarium                  | Fisherman's Wharf | TODO | ⚪ TODO   |                          |
-| Musee Mecanique                  | Museum, Arcade            | Fisherman's Wharf | TODO | ⚪ TODO   | [link](#musee-mecanique) |
-| California Academy of Sciences   | Museum                    | Golden Gate Park  | TODO | ⚪ TODO   |                          |
-| Conservatory of Flowers          | Garden, Museum            | Golden Gate Park  | TODO | ⚪ TODO   |                          |
-| De Young Museum Observatory      | Museum, Observation Tower | Golden Gate Park  | TODO | ⚪ TODO   |                          |
-| Japantown                        | Neighborhood, Shopping    | Japantown         | TODO | ⚪ TODO   | [link](#japantown)       |
-| 826 Valencia Pirate Supply Store | Shop, Novelty             | Mission           | TODO | ⚪ TODO   |                          |
-| Mission Murals                   | Public Art                | Mission           | TODO | ⚪ TODO   | [link](#mission-murals)  |
-| Peephole Cinema                  | Art Installation          | Mission           | TODO | ⚪ TODO   | [link](#peephole-cinema) |
-| Golden Gate Bridge               | Landmark                  | Presidio/Marin    | TODO | ⚪ TODO   |                          |
-| Coit Tower                       | Tower, Viewpoint          | Telegraph Hill    | TODO | ⚪ TODO   |                          |
+| Alcatraz                         | Historic Site, Tour       | Alcatraz Island   | TODO | ? ⚪      |                          |
+| Cable Cars                       | Landmark, Transit         | Citywide          | TODO | ? ⚪      |                          |
+| Asian Art Museum                 | Museum                    | Civic Center      | TODO | ? ⚪      |                          |
+| Exploratorium                    | Museum                    | Embarcadero       | TODO | ? ⚪      |                          |
+| Aquarium of the Bay              | Aquarium                  | Fisherman's Wharf | TODO | ? ⚪      |                          |
+| Musee Mecanique                  | Museum, Arcade            | Fisherman's Wharf | TODO | ? ⚪      | [link](#musee-mecanique) |
+| California Academy of Sciences   | Museum                    | Golden Gate Park  | TODO | ? ⚪      |                          |
+| Conservatory of Flowers          | Garden, Museum            | Golden Gate Park  | TODO | ? ⚪      |                          |
+| De Young Museum Observatory      | Museum, Observation Tower | Golden Gate Park  | TODO | ? ⚪      |                          |
+| Japantown                        | Neighborhood, Shopping    | Japantown         | TODO | ? ⚪      | [link](#japantown)       |
+| 826 Valencia Pirate Supply Store | Shop, Novelty             | Mission           | TODO | ? ⚪      |                          |
+| Mission Murals                   | Public Art                | Mission           | TODO | ? ⚪      | [link](#mission-murals)  |
+| Peephole Cinema                  | Art Installation          | Mission           | TODO | ? ⚪      | [link](#peephole-cinema) |
+| Golden Gate Bridge               | Landmark                  | Presidio/Marin    | TODO | ? ⚪      |                          |
+| Coit Tower                       | Tower, Viewpoint          | Telegraph Hill    | TODO | ? ⚪      |                          |
 
 ## Fun
 
 | Name                       | Type               | Area                   | Cost | 🧐 Rating | Link                                |
 |----------------------------|--------------------|------------------------|------|-----------|-------------------------------------|
-| Ferris Wheel               | Ride               | Fisherman's Wharf      | TODO | ⚪ TODO   |                                     |
-| Free Gold Watch            | Print Shop, Arcade | Haight-Ashbury         | TODO | ⚪ TODO   | [link](#free-gold-watch)            |
-| The Chapel                 | Music Venue        | Mission                | TODO | ⚪ TODO   |                                     |
-| The Magic Patio            | Magic Show Venue   | Mission/Bernal Heights | TODO | ⚪ TODO   | [link](#the-magic-patio)            |
-| SF Giants Game             | Sports             | Oracle Park, SoMa      | TODO | ⚪ TODO   |                                     |
-| Presidio Pet Cemetery      | Quirky Site        | Presidio               | TODO | ⚪ TODO   |                                     |
-| Spark Mini Golf            | Mini Golf          | SoMa                   | TODO | ⚪ TODO   |                                     |
-| Stern Grove Music Festival | Music Festival     | Stern Grove            | TODO | ⚪ TODO   | [link](#stern-grove-music-festival) |
-| Yerba Buena Music          | Music, Festival    | Yerba Buena Gardens    | TODO | ⚪ TODO   |                                     |
+| Ferris Wheel               | Ride               | Fisherman's Wharf      | TODO | ? ⚪      |                                     |
+| Free Gold Watch            | Print Shop, Arcade | Haight-Ashbury         | TODO | ? ⚪      | [link](#free-gold-watch)            |
+| The Chapel                 | Music Venue        | Mission                | TODO | ? ⚪      |                                     |
+| The Magic Patio            | Magic Show Venue   | Mission/Bernal Heights | TODO | ? ⚪      | [link](#the-magic-patio)            |
+| SF Giants Game             | Sports             | Oracle Park, SoMa      | TODO | ? ⚪      |                                     |
+| Presidio Pet Cemetery      | Quirky Site        | Presidio               | TODO | ? ⚪      |                                     |
+| Spark Mini Golf            | Mini Golf          | SoMa                   | TODO | ? ⚪      |                                     |
+| Stern Grove Music Festival | Music Festival     | Stern Grove            | TODO | ? ⚪      | [link](#stern-grove-music-festival) |
+| Yerba Buena Music          | Music, Festival    | Yerba Buena Gardens    | TODO | ? ⚪      |                                     |
 
 # Detailed Notes
 

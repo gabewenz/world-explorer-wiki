@@ -73,7 +73,7 @@ text editor, not just when rendered.
 | Name             | Type       | Area     | Cost | 🧐 Rating | Link                      |
 |------------------|------------|----------|------|-----------|---------------------------|
 | Other Restaurant | Restaurant | Downtown | $$$$ | 🟢 8      | [link](#other-restaurant) |
-| Example Place    | Museum     | Midtown  | $$   | ⚪ TODO   | [link](#example-place)    |
+| Example Place    | Museum     | Midtown  | $$   | ? ⚪      | [link](#example-place)    |
 | Some  Restaurant | Restaurant | Uptown   | $    | 🟡 6      | [link](#some-restaurant)  |
 
 # Detailed Notes
@@ -117,18 +117,25 @@ For food and drink tables, a `Cost` column is used with `Free` / `$` / `$$` / `$
 
 ### Rating
 
-The `Rating` column header is `🧐 Rating` , and every row in the column — including
-not-yet-rated places — is prefixed with exactly one emoji marker. Using one wide emoji per
-row, with no row left as a bare number or bare `TODO` , keeps the column a consistent
-visual width when scanning the raw Markdown in a plain text editor:
+The `Rating` column header is `🧐 Rating` , and every row in the column is prefixed with
+exactly one emoji marker — no row is left as a bare number — keeping the column a
+consistent visual width when scanning the raw Markdown in a plain text editor.
+
+For places already visited, the marker + number records the actual rating:
 
 | Marker | Meaning   |
 |--------|-----------|
-| `⚪`    | `TODO` — not yet rated |
 | `🟠`    | 1-5       |
 | `🟡`    | 6-7       |
 | `🟢`    | 8         |
 | `⭐`    | 9-10      |
+
+For a place not yet visited, prefix the entry with `?` . After the `?`, add an emoji (and
+optionally a number) recording interest level rather than an actual rating, using the same
+bucket meanings above — e.g. `? 🟡` (some interest) or `? ⭐ 9` (highly interested, with a
+precise score). The number is optional in every bucket. `⚪` is reserved for this
+`?`-prefixed, not-yet-visited case and means neutral — no particular interest either way,
+e.g. `? ⚪`.
 
 ### Type
 
