@@ -237,34 +237,43 @@
 
 # Drink (Alcohol)
 
-| Name                     | Type                    | Area              | Cost | Rating (1-10) | Link                              |
-|--------------------------|-------------------------|-------------------|------|---------------|-----------------------------------|
-| Trick Dog                | Cocktails               | Mission           | $$   | 🟢 8          | [link](#trick-dog)                |
-| True Laurel              | Cocktails               | Mission           | $$$  | 🟢 8          | [link](#true-laurel)              |
-| Buena Vista Cafe         | Irish Coffee Bar        | Fisherman's Wharf | $$   | 🟢🟢 9        | [link](#buena-vista-cafe)         |
-| The Interval             | Bar, Cocktails          | Fort Mason        | $$   | 🟢🟢 9        | [link](#the-interval)             |
-| Zeitgeist                | Bar, Beer Garden        | Mission           | $$   | 🟢🟢 9        | [link](#zeitgeist)                |
-| Zam Zam                  | Cocktails, Persian      | Haight            | $$   | 🟢🟢 10       | [link](#zam-zam)                  |
-| The Alembic              | Cocktails               | Haight            | $$   | 🟢 8          | [link](#the-alembic)              |
-| The Little Shamrock      | Irish Pub               | Inner Sunset      | $$   | 🟢🟢 10       | [link](#the-little-shamrock)      |
-| Cavaña Rooftop Lounge    | Latin Fusion, Cocktails | Mission Bay       | $$   | 🟢 8          | [link](#cavaña-rooftop-lounge)    |
-| Fort Point Beer Company  | Brewery                 | Embarcadero       | $$   | TODO          | [link](#fort-point-beer-company)  |
-| Standard Deviant Brewing | Brewery                 | Mission           | $$   | 🟢 8          | [link](#standard-deviant-brewing) |
-| Bar Piccino              | Wine Bar, Cocktails     | Dogpatch          | $$   | 🟢 8          | [link](#bar-piccino)              |
-| Dogpatch Saloon          | Bar                     | Dogpatch          | $$   | 🟢 8          | [link](#dogpatch-saloon)          |
-| Third Rail               | Cocktails               | Dogpatch          | $$   | 🟢 8          | [link](#third-rail)               |
-| Bar 821                  | Amaro Bar               | Divisadero        | $$$  | 🟢🟢 9        | [link](#bar-821)                  |
-| Horsefeather             | Cocktails               | Divisadero        | $$   | 🟢🟢 9        | [link](#horsefeather)             |
-| Bar Iris                 | Cocktails, Japanese     | Polk              | $$$  | 🟢🟢 9        | [link](#bar-iris)                 |
-| House of Shields         | Historic Bar            | FiDi              | $$   | 🟢🟢 9        | [link](#house-of-shields)         |
-| Stoa                     | Mexican, Cocktails      | Haight, Lower     | $$   | 🟢 8          | [link](#stoa)                     |
-| Noc Noc                  | Dive Bar, Beer          | Haight, Lower     | $$   | 🟢 8          | [link](#noc-noc)                  |
-| Toronado                 | Beer Bar                | Haight, Lower     | $    | 🟢 8          | [link](#toronado)                 |
-| Mosto                    | Mezcal, Tequila Bar     | Mission           | $$   | 🟢 8          | [link](#mosto)                    |
-| Lone Palm                | Cocktails, Dive Bar     | Mission           | $$   | 🟢🟢 9        | [link](#lone-palm)                |
-| The Homestead            | Bar, Whiskey            | Mission           | $$   | 🟢🟢 9        | [link](#the-homestead)            |
-| The Royal Cuckoo         | Cocktails, Live Music   | Mission           | $$   | 🟢 8          | [link](#the-royal-cuckoo)         |
-| Evil Eye                 | Cocktails               | Mission           | $$   | 🟢 8          | [link](#evil-eye)                 |
+| Name                         | Type                    | Area              | Cost | Rating (1-10) | Link                                |
+|------------------------------|-------------------------|-------------------|------|---------------|-------------------------------------|
+| Trick Dog                    | Cocktails               | Mission           | $$   | 🟢 8          | [link](#trick-dog)                  |
+| True Laurel                  | Cocktails               | Mission           | $$$  | 🟢 8          | [link](#true-laurel)                |
+| Buena Vista Cafe             | Irish Coffee Bar        | Fisherman's Wharf | $$   | 🟢🟢 9        | [link](#buena-vista-cafe)           |
+| The Interval                 | Bar, Cocktails          | Fort Mason        | $$   | 🟢🟢 9        | [link](#the-interval)               |
+| Zeitgeist                    | Bar, Beer Garden        | Mission           | $$   | 🟢🟢 9        | [link](#zeitgeist)                  |
+| Zam Zam                      | Cocktails, Persian      | Haight            | $$   | 🟢🟢 10       | [link](#zam-zam)                    |
+| The Alembic                  | Cocktails               | Haight            | $$   | 🟢 8          | [link](#the-alembic)                |
+| The Little Shamrock          | Irish Pub               | Inner Sunset      | $$   | 🟢🟢 10       | [link](#the-little-shamrock)        |
+| Cavaña Rooftop Lounge        | Latin Fusion, Cocktails | Mission Bay       | $$   | 🟢 8          | [link](#cavaña-rooftop-lounge)      |
+| Fort Point Beer Company      | Brewery                 | Embarcadero       | $$   | TODO          | [link](#fort-point-beer-company)    |
+| Standard Deviant Brewing     | Brewery                 | Mission           | $$   | 🟢 8          | [link](#standard-deviant-brewing)   |
+| Bar Piccino                  | Wine Bar, Cocktails     | Dogpatch          | $$   | 🟢 8          | [link](#bar-piccino)                |
+| Dogpatch Saloon              | Bar                     | Dogpatch          | $$   | 🟢 8          | [link](#dogpatch-saloon)            |
+| Third Rail                   | Cocktails               | Dogpatch          | $$   | 🟢 8          | [link](#third-rail)                 |
+| Bar 821                      | Amaro Bar               | Divisadero        | $$$  | 🟢🟢 9        | [link](#bar-821)                    |
+| Horsefeather                 | Cocktails               | Divisadero        | $$   | 🟢🟢 9        | [link](#horsefeather)               |
+| Bar Iris                     | Cocktails, Japanese     | Polk              | $$$  | 🟢🟢 9        | [link](#bar-iris)                   |
+| House of Shields             | Historic Bar            | FiDi              | $$   | 🟢🟢 9        | [link](#house-of-shields)           |
+| Stoa                         | Mexican, Cocktails      | Haight, Lower     | $$   | 🟢 8          | [link](#stoa)                       |
+| Noc Noc                      | Dive Bar, Beer          | Haight, Lower     | $$   | 🟢 8          | [link](#noc-noc)                    |
+| Toronado                     | Beer Bar                | Haight, Lower     | $    | 🟢 8          | [link](#toronado)                   |
+| Mosto                        | Mezcal, Tequila Bar     | Mission           | $$   | 🟢 8          | [link](#mosto)                      |
+| Lone Palm                    | Cocktails, Dive Bar     | Mission           | $$   | 🟢🟢 9        | [link](#lone-palm)                  |
+| The Homestead                | Bar, Whiskey            | Mission           | $$   | 🟢🟢 9        | [link](#the-homestead)              |
+| The Royal Cuckoo             | Cocktails, Live Music   | Mission           | $$   | 🟢 8          | [link](#the-royal-cuckoo)           |
+| Evil Eye                     | Cocktails               | Mission           | $$   | 🟢 8          | [link](#evil-eye)                   |
+| ABV                          | Cocktails               | Mission           | $$   | 🟢 8          | [link](#abv)                        |
+| Coquetta                     | Cocktails, Bay Views    | Embarcadero       | $$$  | 🟢 8          | [link](#coquetta)                   |
+| Question Mark Tavern         | Dive Bar                | Russian Hill      | $    | 7             | [link](#question-mark-tavern)       |
+| Buddha Lounge                | Dive Bar                | Chinatown         | $    | 7             | [link](#buddha-lounge)              |
+| Top of the Mark              | Cocktail Lounge, Views  | Nob Hill          | $$$  | 🟢 8          | [link](#top-of-the-mark)            |
+| Smuggler's Cove              | Tiki Bar                | Hayes Valley      | $$   | 🟢🟢 9        | [link](#smugglers-cove)             |
+| Tonga Room                   | Tiki Bar, Live Music    | Nob Hill          | $$$  | 🟢🟢 9        | [link](#tonga-room)                 |
+| PCH (Pacific Cocktail Haven) | Cocktails               | Union Square      | $$   | TODO          | [link](#pch-pacific-cocktail-haven) |
+| Stookey's Club Moderne       | Cocktails, Art Deco     | Polk              | $$   | 🟢 8          | [link](#stookeys-club-moderne)      |
 
 # Coffee & Boba
 
@@ -2003,3 +2012,65 @@ Inner Richmond cafe on Balboa St known for its tasting flights and pastries.
 - Long lines, not a lot of seating areas
 
 [Map](https://www.google.com/maps/search/?api=1&query=The+Coffee+Movement+1737+Balboa+St+San+Francisco+CA)
+
+## ABV
+
+Mission cocktail bar.
+
+[Map](https://www.google.com/maps/search/?api=1&query=ABV+Mission+San+Francisco+CA)
+
+## Coquetta
+
+Pier-side spot with great bay views.
+
+- Good drinks, especially the gin and tonics
+- Food is just ok
+
+[Map](https://www.google.com/maps/search/?api=1&query=Coquetta+Embarcadero+San+Francisco+CA)
+
+## Question Mark Tavern
+
+Good neighborhood bar.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Question+Mark+Tavern+San+Francisco+CA)
+
+## Buddha Lounge
+
+Quirky, dank Chinatown bar with eccentric bartenders.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Buddha+Lounge+Chinatown+San+Francisco+CA)
+
+## Top of the Mark
+
+- Incredible views
+- Drinks are just ok.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Top+of+the+Mark+San+Francisco+CA)
+
+## Smuggler's Cove
+
+Great tiki cocktails and ambiance.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Smuggler%27s+Cove+San+Francisco+CA)
+
+## Tonga Room
+
+- Inside the Fairmont hotel
+- Big space with great ambience
+- Solid tiki cocktails (Mai Tais are pretty good) 
+- Good mix of locals and tourists
+- Live music on weekends
+
+[Map](https://www.google.com/maps/search/?api=1&query=Tonga+Room+Fairmont+San+Francisco+CA)
+
+## PCH (Pacific Cocktail Haven)
+
+Award-winning cocktail bar on Sutter St near Union Square (named to North America's 50 Best Bars).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Pacific+Cocktail+Haven+550+Sutter+St+San+Francisco+CA)
+
+## Stookey's Club Moderne
+
+Cool art deco vibe, solid cocktails, live music some nights.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Stookey%27s+Club+Moderne+San+Francisco+CA)
