@@ -1,17 +1,19 @@
-# Summary
+# Tables
+
+## Summary
 
 | Name                                     | Type                          | Area           | Cost | Rating (1-10) | Link                                             |
 |------------------------------------------|-------------------------------|----------------|------|---------------|--------------------------------------------------|
-| Lulu Carpenter's                         | Cafe - Coffee                 | Downtown       | $$   | 🟢 8          | [link](#lulu-carpenters)                         |
-| 11th Hour Coffee                         | Cafe - Coffee                 | Downtown       | $$   | 🟢🟢 9        | [link](#11th-hour-coffee)                        |
-| Verve Coffee Roasters (Pleasure Point)   | Cafe - Coffee                 | Pleasure Point | TODO | 6             | [link](#verve-coffee-roasters-pleasure-point)    |
-| UC Santa Cruz Arboretum & Botanic Garden | Park - Garden                 | Westside       | TODO | TODO          | [link](#uc-santa-cruz-arboretum--botanic-garden) |
+| Santa Cruz Beach Boardwalk               | Tourist Site - Amusement Park | Beach Area     | TODO | 🟢 8           | [link](#santa-cruz-beach-boardwalk)              |
 | DeLaveaga Disc Golf Course               | Park - Disc Golf              | DeLaveaga      | TODO | TODO          | [link](#delaveaga-disc-golf-course)              |
-| Natural Bridges State Park               | Park - State Park             | Westside       | TODO | 🟢🟢 9        | [link](#natural-bridges-state-park)              |
-| Santa Cruz Beach Boardwalk               | Tourist Site - Amusement Park | Beach Area     | TODO | 🟢 8          | [link](#santa-cruz-beach-boardwalk)              |
-| Seabright Deli                           | Restaurant - Deli             | Seabright      | TODO | 🟢 8          | [link](#seabright-deli)                          |
-| Seabright Beach                          | Park - Beach                  | Seabright      | TODO | 🟢🟢 9        | [link](#seabright-beach)                         |
-| Bad Animal                               | Restaurant - Bookstore Bar    | Downtown       | TODO | 🟢 8          | [link](#bad-animal)                              |
+| 11th Hour Coffee                         | Cafe - Coffee                 | Downtown       | $$   | 🟢🟢 9          | [link](#11th-hour-coffee)                        |
+| Bad Animal                               | Restaurant - Bookstore Bar    | Downtown       | TODO | 🟢 8           | [link](#bad-animal)                              |
+| Lulu Carpenter's                         | Cafe - Coffee                 | Downtown       | $$   | 🟢 8           | [link](#lulu-carpenters)                         |
+| Verve Coffee Roasters (Pleasure Point)   | Cafe - Coffee                 | Pleasure Point | TODO | 6             | [link](#verve-coffee-roasters-pleasure-point)    |
+| Seabright Beach                          | Park - Beach                  | Seabright      | TODO | 🟢🟢 9          | [link](#seabright-beach)                         |
+| Seabright Deli                           | Restaurant - Deli             | Seabright      | TODO | 🟢 8           | [link](#seabright-deli)                          |
+| Natural Bridges State Park               | Park - State Park             | Westside       | TODO | 🟢🟢 9          | [link](#natural-bridges-state-park)              |
+| UC Santa Cruz Arboretum & Botanic Garden | Park - Garden                 | Westside       | TODO | TODO          | [link](#uc-santa-cruz-arboretum--botanic-garden) |
 
 # Detailed Notes
 
