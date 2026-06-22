@@ -2,18 +2,21 @@
 
 ## Summary
 
-| Name                     | Type                            | Area                    | Cost | 🧐 Rating | Link                             |
-|--------------------------|---------------------------------|-------------------------|------|-----------|----------------------------------|
-| Belle's Coffeehouse      | Cafe - Coffee                   | Downtown                | $$   | ⭐ 9      | [link](#belles-coffeehouse)      |
-| Big Rapids Riverwalk     | Park - Trail                    | Downtown                | Free | ⭐ 10     | [link](#big-rapids-riverwalk)    |
-| Blue Cow Cafe            | Restaurant - Cafe               | Downtown                | $$   | 🟡 7      | [link](#blue-cow-cafe)           |
-| Schuberg's Bar & Grill   | Restaurant - Burger             | Downtown                | $$   | ⭐ 9      | [link](#schubergs-bar--grill)    |
-| Taco Frida Cantina       | Restaurant - Taco               | Downtown                | $$   | ? ⚪      | [link](#taco-frida-cantina)      |
-| The Backroom             | Cafe - Coffee                   | Downtown                | $$   | 🟡 7      | [link](#the-backroom)            |
-| Jim Crow Museum          | Museum - History                | Ferris State University | Free | 🟢 8      | [link](#jim-crow-museum)         |
-| Jersey Mike's Subs       | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8      | [link](#jersey-mikes-subs)       |
-| Northend Riverside Park  | Park - Disc Golf                | Northend                | Free | ⭐ 9      | [link](#northend-riverside-park) |
-| Fatbelly Deli & Creamery | Restaurant - Sandwich/Ice Cream | Stanwood                | $$   | 🟢 8      | [link](#fatbelly-deli--creamery) |
+| Name                             | Type                            | Area                    | Cost | 🧐 Rating | Link                                      |
+|----------------------------------|---------------------------------|-------------------------|------|-----------|-------------------------------------------|
+| Belle's Coffeehouse              | Cafe - Coffee                   | Downtown                | $$   | ⭐ 9      | [link](#belles-coffeehouse)               |
+| Big Rapids Riverwalk             | Park - Trail                    | Downtown                | Free | ⭐ 10     | [link](#big-rapids-riverwalk)             |
+| Blue Cow Cafe                    | Restaurant - Cafe               | Downtown                | $$   | 🟡 7      | [link](#blue-cow-cafe)                    |
+| Gypsy Nickel Lounge              | Restaurant - Bar                | Downtown                | $$   | 🟢 8      | [link](#gypsy-nickel-lounge)              |
+| Red Fox Market                   | Shop - Grocery                  | Downtown                | $$   | 🟢 8      | [link](#red-fox-market)                   |
+| Schuberg's Bar & Grill           | Restaurant - Burger             | Downtown                | $$   | ⭐ 9      | [link](#schubergs-bar--grill)             |
+| Taco Frida Cantina               | Restaurant - Taco               | Downtown                | $$   | ? ⚪      | [link](#taco-frida-cantina)               |
+| The Backroom                     | Cafe - Coffee                   | Downtown                | $$   | 🟡 7      | [link](#the-backroom)                     |
+| Jim Crow Museum                  | Museum - History                | Ferris State University | Free | 🟢 8      | [link](#jim-crow-museum)                  |
+| Charles E Fairman Community Pool | Park - Pool                     | Hutchinson St           | $    | ⭐ 9      | [link](#charles-e-fairman-community-pool) |
+| Jersey Mike's Subs               | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8      | [link](#jersey-mikes-subs)                |
+| Northend Riverside Park          | Park - Disc Golf                | Northend                | Free | ⭐ 9      | [link](#northend-riverside-park)          |
+| Fatbelly Deli & Creamery         | Restaurant - Sandwich/Ice Cream | Stanwood                | $$   | 🟢 8      | [link](#fatbelly-deli--creamery)          |
 
 # Detailed Notes
 
@@ -90,3 +93,32 @@ City disc golf course on the north end of town, in the park along the Muskegon R
 Sandwich shop and ice cream/creamery combo in Stanwood, just south of Big Rapids; known for "The Fat Belly Sandwich."
 
 [Map](https://www.google.com/maps/search/?api=1&query=Fatbelly+Deli+%26+Creamery,+20751+8+Mile+Rd,+Stanwood,+MI+49346)
+
+## Gypsy Nickel Lounge
+
+Bar/lounge on Baldwin St with seating overlooking the Muskegon River.
+
+- Ok food
+- Ok cocktails
+- Solid beers
+- Great river views
+
+[Map](https://www.google.com/maps/search/?api=1&query=Gypsy+Nickel+Lounge+228+Baldwin+St+Big+Rapids+MI+49307)
+
+## Red Fox Market
+
+Specialty grocery store downtown.
+
+- Good place for specialty items
+- Selection can be hit-or-miss
+
+[Map](https://www.google.com/maps/search/?api=1&query=Red+Fox+Market+112+S+Michigan+Ave+Big+Rapids+MI+49307)
+
+## Charles E Fairman Community Pool
+
+City community pool and park on Hutchinson St.
+
+- A little run-down
+- Great pool with very affordable admission
+
+[Map](https://www.google.com/maps/search/?api=1&query=Charles+E+Fairman+Community+Pool+106+Hutchinson+St+Big+Rapids+MI+49307)
