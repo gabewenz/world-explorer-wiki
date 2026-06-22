@@ -165,6 +165,15 @@ Example:
 
 Prefer a map link when adding only one link.
 
+## Adding a Place
+
+When the user asks to add a place but doesn't give the `Area` (or other missing details,
+e.g. correct business name, `Type`/cuisine), look it up yourself (web search, maps) rather
+than asking the user. Use the result that best matches the user's intent (e.g. fix an
+obvious misspelling of the business name) and briefly mention any correction made. Only ask
+the user when the lookup is ambiguous (e.g. multiple distinct businesses/locations with the
+same name) or turns up nothing.
+
 ## Scripts
 
 `scripts/` holds small Python helpers for working with these files programmatically:
