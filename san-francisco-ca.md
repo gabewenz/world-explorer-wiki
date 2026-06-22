@@ -90,7 +90,6 @@
 | Tortas Los Picudos           | Mexican, Sandwiches         | Mission           | $$   | 🟡 6      | [link](#tortas-los-picudos)        |
 | Truly Med                    | Middle Eastern              | Mission           | $    | 🟡 6      | [link](#truly-med)                 |
 | Tuba                         | Turkish                     | Mission           | $$   | 🟢 8      | [link](#tuba)                      |
-| Turner's Kichen              | American                    | Mission           | $$   | 🟢 8      | [link](#turners-kichen)            |
 | Udupi Palace                 | South Indian, Dosas         | Mission           | $$   | ⭐ 10     |                                    |
 | Yamo                         | Burmese                     | Mission           | $    | 🟢 8      |                                    |
 | Cavaña Rooftop Lounge        | Latin Fusion, cocktails     | Mission Bay       | $$   | 🟢 8      | [link](#cavaña-rooftop-lounge)     |
@@ -178,6 +177,7 @@
 | DragonEats                   | Vientamese, Banh Mi         | SoMa              | $$   | 🟢 8      | [link](#dragoneats)                |
 | Kaiyo Rooftop                | Nikkei, Cocktails           | SoMa              | $$$  | 🟢 8      |                                    |
 | Kama O Deli                  | Japanese                    | SoMa              | $$   | 🟡 6      |                                    |
+| LetsSweet Kitchen            | Hong Kong, Cha Chaan Teng   | SoMa              | TODO | ? ⚪      | [link](#letssweet-kitchen)         |
 | Mila                         | Tacos                       | SoMa              | $$   | 🟡 6      | [link](#mila)                      |
 | Moya                         | Ethiopian                   | SoMa              | $$   | 🟢 8      | [link](#moya)                      |
 | Pazzia                       | Italian                     | SoMa              | $$   | 🟡 6      | [link](#pazzia)                    |
@@ -331,35 +331,36 @@
 
 | Name                             | Type                      | Area              | Cost | 🧐 Rating | Link                     |
 |----------------------------------|---------------------------|-------------------|------|-----------|--------------------------|
-| Alcatraz                         | Historic Site, Tour       | Alcatraz Island   | TODO | ? ⚪      |                          |
-| Cable Cars                       | Landmark, Transit         | Citywide          | TODO | ? ⚪      |                          |
+| Alcatraz                         | Historic Site, Tour       | Alcatraz Island   | $$   | ⭐ 10     |                          |
+| Cable Cars                       | Landmark, Transit         | Citywide          | $    | ⭐ 10     |                          |
 | Asian Art Museum                 | Museum                    | Civic Center      | TODO | ? ⚪      |                          |
 | Exploratorium                    | Museum                    | Embarcadero       | TODO | ? ⚪      |                          |
-| Aquarium of the Bay              | Aquarium                  | Fisherman's Wharf | TODO | ? ⚪      |                          |
-| Musee Mecanique                  | Museum, Arcade            | Fisherman's Wharf | TODO | ? ⚪      | [link](#musee-mecanique) |
+| Aquarium of the Bay              | Aquarium                  | Fisherman's Wharf | TODO | 🟡 6      |                          |
+| Musee Mecanique                  | Museum, Arcade            | Fisherman's Wharf | $    | ⭐ 9      | [link](#musee-mecanique) |
 | California Academy of Sciences   | Museum                    | Golden Gate Park  | TODO | ? ⚪      |                          |
 | Conservatory of Flowers          | Garden, Museum            | Golden Gate Park  | TODO | ? ⚪      |                          |
 | De Young Museum Observatory      | Museum, Observation Tower | Golden Gate Park  | TODO | ? ⚪      |                          |
-| Japantown                        | Neighborhood, Shopping    | Japantown         | TODO | ? ⚪      | [link](#japantown)       |
-| 826 Valencia Pirate Supply Store | Shop, Novelty             | Mission           | TODO | ? ⚪      |                          |
-| Mission Murals                   | Public Art                | Mission           | TODO | ? ⚪      | [link](#mission-murals)  |
-| Peephole Cinema                  | Art Installation          | Mission           | TODO | ? ⚪      | [link](#peephole-cinema) |
-| Golden Gate Bridge               | Landmark                  | Presidio/Marin    | TODO | ? ⚪      |                          |
-| Coit Tower                       | Tower, Viewpoint          | Telegraph Hill    | TODO | ? ⚪      |                          |
+| Japantown                        | Neighborhood, Shopping    | Japantown         | Free | 🟡 7      | [link](#japantown)       |
+| 826 Valencia Pirate Supply Store | Shop, Novelty             | Mission           | $$   | 🟢 8      |                          |
+| Mission Murals                   | Public Art                | Mission           | Free | 🟢 8      | [link](#mission-murals)  |
+| Paxton Gate                      | Shop, Novelty, Taxidermy  | Mission           | $$$  | 🟢 8      |                          |
+| Peephole Cinema                  | Art Installation          | Mission           | Free | 🟡 7      | [link](#peephole-cinema) |
+| Golden Gate Bridge               | Landmark                  | Presidio/Marin    | Free | ⭐ 10     |                          |
+| Coit Tower                       | Tower, Viewpoint          | Telegraph Hill    | $$   | 🟡 7      |                          |
 
 ## Fun
 
 | Name                       | Type               | Area                   | Cost | 🧐 Rating | Link                                |
 |----------------------------|--------------------|------------------------|------|-----------|-------------------------------------|
 | Ferris Wheel               | Ride               | Fisherman's Wharf      | TODO | ? ⚪      |                                     |
-| Free Gold Watch            | Print Shop, Arcade | Haight-Ashbury         | TODO | ? ⚪      | [link](#free-gold-watch)            |
-| The Chapel                 | Music Venue        | Mission                | TODO | ? ⚪      |                                     |
-| The Magic Patio            | Magic Show Venue   | Mission/Bernal Heights | TODO | ? ⚪      | [link](#the-magic-patio)            |
+| Free Gold Watch            | Print Shop, Arcade | Haight-Ashbury         | $$   | ⭐ 10     | [link](#free-gold-watch)            |
+| The Chapel                 | Music Venue        | Mission                | $$   | ⭐ 9      |                                     |
+| The Magic Patio            | Magic Show Venue   | Mission/Bernal Heights | $$   | ⭐ 9      | [link](#the-magic-patio)            |
 | SF Giants Game             | Sports             | Oracle Park, SoMa      | TODO | ? ⚪      |                                     |
-| Presidio Pet Cemetery      | Quirky Site        | Presidio               | TODO | ? ⚪      |                                     |
-| Spark Mini Golf            | Mini Golf          | SoMa                   | TODO | ? ⚪      |                                     |
-| Stern Grove Music Festival | Music Festival     | Stern Grove            | TODO | ? ⚪      | [link](#stern-grove-music-festival) |
-| Yerba Buena Music          | Music, Festival    | Yerba Buena Gardens    | TODO | ? ⚪      |                                     |
+| Presidio Pet Cemetery      | Quirky Site        | Presidio               | Free | 🟢 8      | Quirky fun that is not for everyone |
+| Spark Mini Golf            | Mini Golf          | SoMa                   | $$   | 🟢 8      |                                     |
+| Stern Grove Music Festival | Music Festival     | Stern Grove            | Free | ⭐ 10     | [link](#stern-grove-music-festival) |
+| Yerba Buena Music          | Music, Festival    | Yerba Buena Gardens    | Free | 🟡 7      |                                     |
 
 # Detailed Notes
 
@@ -722,12 +723,6 @@ Good toppings, poor crust
 
 [Map](https://www.google.com/maps/search/?api=1&query=Taqueria+San+Francisco+San+Francisco+CA)
 
-## Turner's Kichen
-
-French Dip = good
-
-[Map](https://www.google.com/maps/search/?api=1&query=Turner%27s+Kichen+San+Francisco+CA)
-
 ## Balompie Cafe
 
 - Platanos = great
@@ -1004,8 +999,12 @@ Ok burger, mediocre ambiance
 
 ## Georgian Cheese Boat
 
-- Classic bread boat = very good
-- lamb stew = very good
+- Georgian (ish) beers and wines are pretty good
+- Classic cheese boat (cheese and egg) = very good
+- Lamb stew = very good
+- Georgian dumplings = solid, but not life changing
+- The walnut and other "salads" (Phkali Spinach and Phkali Beets) = heavy, more of a paste
+- Honey Cake dessert = excellent
 
 [Map](https://www.google.com/maps/search/?api=1&query=Georgian+Cheese+Boat+San+Francisco+CA)
 
@@ -1254,11 +1253,12 @@ Tasty, nice ambiance, long waits
 
 ## Pearl 6101
 
-- Good cocktails
+- Good cocktails (try the Pearl Martini)
+- Bread and butter = excellent
 - Ricotta Cappellicci = 8/10
 - Scallops = 8/10
-- yogurt pana cotta = 9/10
-- octopus = ok
+- Yogurt pana cotta = 9/10
+- Octopus = ok
 
 [Map](https://www.google.com/maps/search/?api=1&query=Pearl+6101+San+Francisco+CA)
 
@@ -1318,6 +1318,12 @@ Good value, ans tasty for what it is!
 - Shakshusa = meh
 
 [Map](https://www.google.com/maps/search/?api=1&query=Barcha+San+Francisco+CA)
+
+## LetsSweet Kitchen
+
+Hong Kong–style cha chaan teng; baked rice plates, noodle soups, milk tea.
+
+[Map](https://www.google.com/maps/search/?api=1&query=LetsSweet+Kitchen+San+Francisco+CA)
 
 ## Mila
 
