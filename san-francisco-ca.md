@@ -45,6 +45,7 @@
 | The Marshall Store           | Oysters, Seafood            | Marshall, CA      | $$   | ? ⚪      | [link](#the-marshall-store)        |
 | Angie's Pizza                | Pizza                       | Mission           | $$   | 🟢 8      | [link](#angies-pizza)              |
 | Atlas Cafe                   | Sandwiches                  | Mission           | $$   | 🟢 8      | [link](#atlas-cafe)                |
+| Baklavastory                 | Turkish Bakery              | Mission           | $    | ? ⚪      | [link](#baklavastory)              |
 | Balompie Cafe                | El Salvadorian              | Mission           | $    | 🟢 8      | [link](#balompie-cafe)             |
 | Basa Seafood Express         | Seafood, Sushi              | Mission           | $    | 🟡 6      | [link](#basa-seafood-express)      |
 | Base Camp                    | Nepalese / Indian           | Mission           | $$   | 🟡 7      | [link](#base-camp)                 |
@@ -60,7 +61,7 @@
 | El Tepa Taqueria             | Mexican                     | Mission           | $$   | 🟡 6      | [link](#el-tepa-taqueria)          |
 | Gallardo's Mexican Rest      | Mexican                     | Mission           | $    | 🟡 6      | [link](#gallardos-mexican-rest)    |
 | Hem by Lequy                 | Vietnamese                  | Mission           | $$   | 🟢 8      | [link](#hem-by-lequy)              |
-| Hi Hat                       | Pizza                       | Mission           | TODO | ? ⚪      |                                    |
+| Hi Hat                       | Pizza                       | Mission           | $$   | ? ⚪      | [link](#hi-hat)                    |
 | Humphry Slocombe             | Ice Cream                   | Mission           | $$   | ? ⚪      | [link](#humphry-slocombe)          |
 | Kolapasi                     | South Indian                | Mission           | $$   | 🟢 8      | [link](#kolapasi)                  |
 | Komaaj                       | Persian, Norther Iran       | Mission           | $$   | 🟢 8      | [link](#komaaj)                    |
@@ -113,10 +114,11 @@
 | Roam                         | Burgers                     | Pac Heights       | TODO | ? ⚪      |                                    |
 | Ben Thai Cafe                | Thai                        | Polk              | $$   | 🟡 6      | [link](#ben-thai-cafe)             |
 | Helmand Palace               | Afghan, Kabobs              | Polk              | $$   | 🟢 8      | [link](#helmand-palace)            |
-| Karam                        | Mediterranean               | Polk              | TODO | ? ⚪      |                                    |
+| Karam                        | Mediterranean               | Polk              | $$   | ? ⚪      | [link](#karam)                     |
 | Nara                         | Sushi, Japanese             | Polk              | $$$  | 🟢 8      | [link](#nara)                      |
 | Saru                         | Sushi, Japanese             | Polk              | $$   | 🟢 8      | [link](#saru)                      |
 | Spirial                      | Oysters                     | Polk              | TODO | ? ⚪      |                                    |
+| Cordon Bleu                  | Vietnamese                  | Polk Gulch        | $$   | ? ⚪      | [link](#cordon-bleu)               |
 | Limoncello's                 | Italian Deli                | Polk Gulch        | $$   | 🟡 6      | [link](#limoncellos)               |
 | Swan's Oyster Bar            | Seafood, Oysters            | Polk Gulch        | TODO | ? ⚪      |                                    |
 | Banh Mi House                | Vietnamese Sandwiches       | Portola           | $$   | 🟡 6      | [link](#banh-mi-house)             |
@@ -168,6 +170,7 @@
 | Super Pan                    | Teppanyaki                  | Richmond Outer    | $$   | 🟢 8      | [link](#super-pan)                 |
 | Volcano                      | Japanese Curry              | Richmond Outer    | $$   | 🟡 6      | [link](#volcano)                   |
 | Hot Sauce and Panko          | Fried Chicken               | Russian Hill      | $$   | 🟡 6      | [link](#hot-sauce-and-panko)       |
+| Za Pizza                     | Pizza                       | Russian Hill      | $$   | ? ⚪      | [link](#za-pizza)                  |
 | Barcha                       | Middle Eastern / Tapas      | SoMa              | $$   | 🟡 6      | [link](#barcha)                    |
 | Cafe Okawara                 | Japenese                    | SoMa              | $$   | 🟢 8      | [link](#cafe-okawara)              |
 | Deli Board                   | Sandwiches                  | SoMa              | $$   | ⭐ 10     | [link](#deli-board)                |
@@ -232,9 +235,9 @@
 | Lapisara Earery              | Brunch, Burgers, Thai       | Tender Nob        | $$   | ? ⚪      |                                    |
 | Pearl's Deluxe Burgers       | Burgers                     | Tender Nob        | $$   | 🟡 7      | [link](#pearls-deluxe-burgers)     |
 | Brenda's French Soul Food    | Southern, Cajon/Creole      | Tenderloin        | $$   | 🟢 8      | [link](#brendas-french-soul-food)  |
-| Cordon Bleu                  | Vietnamese                  | Tenderloin        | TODO | ? ⚪      |                                    |
 | Farmerbrown                  | Soul food                   | Tenderloin        | $$   | 🟡 7      | [link](#farmerbrown)               |
 | Kim Thanh                    | Vietnamese                  | Tenderloin        | $$   | ? ⚪      | [link](#kim-thanh)                 |
+| Khao Tiew                    | Thai                        | West Portal       | $$   | ? ⚪      | [link](#khao-tiew)                 |
 
 ## Drink (Alcohol)
 
@@ -1651,6 +1654,42 @@ Ca Kho To recommended by Uber driver
 - long waits
 
 [Map](https://www.google.com/maps/search/?api=1&query=Brenda%27s+French+Soul+Food+San+Francisco+CA)
+
+## Hi Hat
+
+NY-style pies (only ~5 options) plus burgers and Buffalo wings on Valencia St; $3 slices after 9pm.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Hi+Hat+San+Francisco+CA)
+
+## Karam
+
+Halal Lebanese/Arabic counter on Polk St; gyros, shawarma, hummus, falafel.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Karam+San+Francisco+CA)
+
+## Cordon Bleu
+
+Tiny cash-only Vietnamese lunch counter (8 seats) in Polk Gulch, run by Maggie for 25+ years. The "Number 5" platter (fried pork spring rolls, shish kebab, five-spice chicken) is the move.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Cordon+Bleu+San+Francisco+CA)
+
+## Za Pizza
+
+Thin-crust pizzas and big salads in Russian Hill; outdoor seating, beer on tap.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Za+Pizza+San+Francisco+CA)
+
+## Khao Tiew
+
+Acclaimed West Portal Thai spot from chef Wipada Rattanapun; known for khao soi and panang curry.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Khao+Tiew+San+Francisco+CA)
+
+## Baklavastory
+
+Turkish bakery in the Mission; pistachio and walnut baklava made with phyllo and clarified butter, sourced from Turkey.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Baklavastory+San+Francisco+CA)
 
 ## Trick Dog
 
