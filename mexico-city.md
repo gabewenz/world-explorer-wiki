@@ -2,21 +2,37 @@
 
 ## Restaurants
 
-| Name          | Type                   | Area       | Cost | 🧐 Rating | Link                   |
-|---------------|------------------------|------------|------|-----------|------------------------|
-| Pujol         | Modern Mexican         | Polanco    | $$$$ | ? ⭐      | [link](#pujol)         |
-| Quintonil     | Modern Mexican         | Polanco    | $$$$ | ? ⭐      | [link](#quintonil)     |
-| Altanera      | Mexican, Baja          | Roma Norte | $$   | ? ⭐      | [link](#altanera)      |
-| Blanco Colima | Contemporary Mexican   | Roma Norte | $$$  | ? ⭐      | [link](#blanco-colima) |
-| Castizo       | Spanish, Mediterranean | Roma Norte | $$$  | ? ⭐      | [link](#castizo)       |
-| Gardela       | Argentine, Steakhouse  | Roma Norte | $$$  | ? ⭐      | [link](#gardela)       |
-| Marcello      | Italian                | Roma Norte | $$$  | ? ⭐      | [link](#marcello)      |
-| Rosetta       | Italian-Mexican        | Roma Norte | $$$  | ? ⭐      | [link](#rosetta)       |
+| Name                        | Type                    | Area                   | Cost | 🧐 Rating | Link                                 |
+|-----------------------------|-------------------------|------------------------|------|-----------|--------------------------------------|
+| Los Tolucos                 | Mexican, Pozole         | Algarín                | $$   | ? ⭐      | [link](#los-tolucos)                 |
+| La Perla Tapatía            | Mexican, Pozole, Birria | Azcapotzalco           | $$   | ? ⭐      | [link](#la-perla-tapatía)            |
+| Las Costillas de la Condesa | Mexican, Tacos          | Condesa                | $    | ? ⭐      | [link](#las-costillas-de-la-condesa) |
+| Santo Pozole                | Mexican, Pozole         | Cuauhtémoc             | $    | ? ⭐      | [link](#santo-pozole)                |
+| Fonda Margarita             | Mexican, Breakfast      | Del Valle              | $    | ? ⭐      | [link](#fonda-margarita)             |
+| El Pozole de Moctezuma      | Mexican, Pozole         | Guerrero               | $    | ? ⭐      | [link](#el-pozole-de-moctezuma)      |
+| Casa Licha                  | Mexican, Pozole         | Iztapalapa             | $    | ? ⭐      | [link](#casa-licha)                  |
+| Pujol                       | Modern Mexican          | Polanco                | $$$$ | ? ⭐      | [link](#pujol)                       |
+| Quintonil                   | Modern Mexican          | Polanco                | $$$$ | ? ⭐      | [link](#quintonil)                   |
+| Altanera                    | Mexican, Baja           | Roma Norte             | $$   | ? ⭐      | [link](#altanera)                    |
+| Blanco Colima               | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#blanco-colima)               |
+| Castizo                     | Spanish, Mediterranean  | Roma Norte             | $$$  | ? ⭐      | [link](#castizo)                     |
+| Em                          | Mexican-Japanese        | Roma Norte             | $$$$ | ? ⭐      | [link](#em)                          |
+| Gardela                     | Argentine, Steakhouse   | Roma Norte             | $$$  | ? ⭐      | [link](#gardela)                     |
+| Las Costillas de San Luis   | Mexican, Ribs           | Roma Norte             | $    | ? ⭐      | [link](#las-costillas-de-san-luis)   |
+| Marcello                    | Italian                 | Roma Norte             | $$$  | ? ⭐      | [link](#marcello)                    |
+| Rosetta                     | Italian-Mexican         | Roma Norte             | $$$  | ? ⭐      | [link](#rosetta)                     |
+| Ultramarinos Demar          | Seafood, Mexican        | Roma Norte             | $$   | ? ⭐      | [link](#ultramarinos-demar)          |
+| Doña Anastasia              | Mexican, Quesadillas    | Roma Sur               | $    | ? ⭐      | [link](#doña-anastasia)              |
+| Comal Oculto                | Mexican, Antojitos      | San Miguel Chapultepec | $$   | ? ⭐      | [link](#comal-oculto)                |
+| Super Tacos Chupacabras     | Mexican, Tacos          | Xoco                   | $    | ? ⭐      | [link](#super-tacos-chupacabras)     |
 
 ## Drink (Alcohol)
 
-| Name | Type | Area | Cost | 🧐 Rating | Link |
-|------|------|------|------|-----------|------|
+| Name               | Type                            | Area       | Cost | 🧐 Rating | Link                        |
+|--------------------|---------------------------------|------------|------|-----------|-----------------------------|
+| Caimán             | Wine Bar                        | Condesa    | $$   | ? ⭐      | [link](#caimán)             |
+| Bar Mauro          | Cocktail Bar, Italian Aperitivo | Roma Norte | $$$  | ? ⭐      | [link](#bar-mauro)          |
+| Despacho Margarita | Margarita Bar                   | Roma Norte | $$   | ? ⭐      | [link](#despacho-margarita) |
 
 ## Coffee & Boba
 
@@ -25,8 +41,17 @@
 | Boicot Café           | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#boicot-café)           |
 | Buna                  | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#buna)                  |
 | Cafebrería El Péndulo | Coffee, Bookstore | Roma Norte | $$   | ? 🟢      | [link](#cafebrería-el-péndulo) |
+| Café Tormenta         | Coffee            | Roma Norte | $    | ? 🟢      | [link](#café-tormenta)         |
 | Cardinal Casa de Café | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#cardinal-casa-de-café) |
 | MOMO Coffee           | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#momo-coffee)           |
+
+## Dessert
+
+| Name                              | Type    | Area             | Cost | 🧐 Rating | Link                                       |
+|-----------------------------------|---------|------------------|------|-----------|--------------------------------------------|
+| Churrería El Moro                 | Churros | Centro Histórico | $    | ? ⭐      | [link](#churrería-el-moro)                 |
+| Churrería General de la República | Churros | Coyoacán         | $    | ? ⭐      | [link](#churrería-general-de-la-república) |
+| El Kiosko de Coyoacán             | Churros | Coyoacán         | $    | ? ⭐      | [link](#el-kiosko-de-coyoacán)             |
 
 ## Outdoor
 
@@ -43,6 +68,7 @@
 | Frida Kahlo Museum (Casa Azul) | Historic House, Art  | Coyoacán               | $    | ? ⭐      | [link](#frida-kahlo-museum-casa-azul)   |
 | Museo Soumaya                  | Art Museum           | Nuevo Polanco          | Free | ? ⭐      | [link](#museo-soumaya)                  |
 | Teotihuacán                    | Archaeological Ruins | Teotihuacán (day trip) | $    | ? ⭐      | [link](#teotihuacán)                    |
+| Mercado de Tepito              | Street Market        | Tepito                 | Free | ? ⭐      | [link](#mercado-de-tepito)              |
 
 ## Fun
 
@@ -55,6 +81,18 @@
 | Name       | Type     | Area       | Cost | 🧐 Rating | Link                |
 |------------|----------|------------|------|-----------|---------------------|
 | Casa Izeba | Boutique | Roma Norte | $$$  | ? ⭐      | [link](#casa-izeba) |
+
+## Live Music & Performance
+
+| Name                | Type                      | Area             | Cost | 🧐 Rating | Link                         |
+|---------------------|---------------------------|------------------|------|-----------|------------------------------|
+| Zinco Jazz Club     | Jazz Club                 | Centro Histórico | $$   | ? ⭐      | [link](#zinco-jazz-club)     |
+| Teatro Bar El Vicio | Cabaret, Political Satire | Coyoacán         | $$   | ? ⭐      | [link](#teatro-bar-el-vicio) |
+| Salón Los Ángeles   | Dance Hall, Danzón        | Guerrero         | $$   | ? ⭐      | [link](#salón-los-ángeles)   |
+| Parker & Lenox      | Jazz, Speakeasy           | Juárez           | $$$  | ? ⭐      | [link](#parker--lenox)       |
+| Barba Azul          | Cabaret, Tropical Dance   | Obrera           | $    | ? ⭐      | [link](#barba-azul)          |
+| Casa Franca         | Jazz Bar                  | Roma Norte       | $$   | ? ⭐      | [link](#casa-franca)         |
+| Jazzatlán Capital   | Jazz, World Music         | Roma Norte       | $$   | ? ⭐      | [link](#jazzatlán-capital)   |
 
 # Detailed Notes
 
@@ -190,3 +228,171 @@ Artisanal coffee with retro/quirky decor (sofas, a Pac-Man machine); known for c
 Bookstore-café (also bar/grill and small concert venue) on Álvaro Obregón — leafy, two-story, great for a relaxed coffee with a book.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Cafebrería+El+Péndulo+Roma+Mexico+City)
+
+## Doña Anastasia
+
+Street stall famous for quesadillas made on fresh blue corn tortillas (sausage, brains, beef, and more fillings); featured on Bourdain's *No Reservations*. Roma Sur.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Doña+Anastasia+quesadillas+Roma+Sur+Mexico+City)
+
+## Fonda Margarita
+
+Tiny, no-reservations breakfast diner founded by Doña Margarita Lugo Castillo over six decades ago; communal seating, hearty stews, mole, charro beans, chilaquiles. Bourdain's favorite CDMX breakfast. Open 6:30am–early afternoon, Tue–Sun.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Fonda+Margarita+Del+Valle+Mexico+City)
+
+## El Pozole de Moctezuma
+
+"Secret" pozolería since 1947 on the ground floor of an unmarked building — no signage, just ring the buzzer labeled "pozole." Founded by Doña Balbina Valle; serves Guerrero-style pozole verde (sardine and egg in the broth, plus chicharrón), unlike the red/white pozole found elsewhere in CDMX. A Carlos Slim favorite. Open Mon–Sat, 2–7pm.
+
+[Map](https://www.google.com/maps/search/?api=1&query=El+Pozole+de+Moctezuma+Calle+Moctezuma+12+Colonia+Guerrero+Mexico+City)
+
+## Los Tolucos
+
+Over 55 years running on Algarín's "pozole corridor," which it helped establish. Guerrero-style (Tixtla) pozole; white is the star, but the green is also praised for its thick, dense broth with concentrated pumpkin-seed flavor. Open daily, ~10am–8pm.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Los+Tolucos+Juan+E.+Hernández+y+Davalos+40+Algarín+Mexico+City)
+
+## La Perla Tapatía
+
+Almost 40 years old in Centro de Azcapotzalco; primarily a birria temple (Jalisco-style goat, slow-cooked in an adobo of five-plus spices), but the pork pozole — served with cabbage and lettuce — rides on the same kitchen's pedigree. Open daily, 8am–5pm.
+
+[Map](https://www.google.com/maps/search/?api=1&query=La+Perla+Tapatía+Avenida+Azcapotzalco+706-B+Mexico+City)
+
+## Casa Licha
+
+Weekends-only pozolería (Sat–Sun) in Iztapalapa, serving Chilapa de Álvarez (Guerrero)-style pozole since 1960 — white and green only, no radishes or lettuce, just the traditional chicharrón, avocado, oregano, onion, and chile piquín. Green pozole praised for its light, herbal freshness. Huge portions; from ~$115 MXN.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Casa+Licha+Pozole+Sur+69A+513+Justo+Sierra+Iztapalapa+Mexico+City)
+
+## Las Costillas de la Condesa
+
+Classic taco stand on Juan Escutia, open since 1975 — costilla (rib) tacos, homemade salsas, aguas frescas, queso fundido. Not to be confused with Las Costillas de San Luis in Roma Norte.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Las+Costillas+de+la+Condesa+Juan+Escutia+Mexico+City)
+
+## Santo Pozole
+
+Relaxed spot on Río Lerma good for going with friends over tacos and mezcalitos. Notably serves five pozole styles — rojo, verde, blanco, **negro**, and a vegetarian version — plus antojitos like tostadas de pata, sopes, and enmoladas. Open Tue–Sun, 2–11pm; from ~$130 MXN.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Santo+Pozole+Río+Lerma+179+Colonia+Cuauhtémoc+Mexico+City)
+
+## Las Costillas de San Luis
+
+Roma Norte institution, also open since 1975, built around wood-fired ribs (costillas) served with beans, handmade tortillas, huaraches, and quesadillas. Not to be confused with Las Costillas de la Condesa.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Las+Costillas+de+San+Luis+Roma+Norte+Mexico+City)
+
+## Super Tacos Chupacabras
+
+Quintessential late-night/24-hour taco and torta joint by the Río Churubusco overpass in Xoco; al pastor, suadero, longaniza, and the signature "Chupa" taco loaded with extras.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Super+Tacos+Chupacabras+Xoco+Mexico+City)
+
+## Em
+
+Chef Lucho Martínez's contemporary Mexican tasting-menu restaurant with Japanese influences, on Tonalá in Roma Norte (relocated from its original Colonia Cuauhtémoc location, opened 2018 as Emília). One Michelin star (2024). À la carte also available; 686 Bar sits above it.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Em+Tonalá+Roma+Norte+Mexico+City)
+
+## Comal Oculto
+
+Unassuming neighborhood antojería in San Miguel Chapultepec built around a single communal table on the street; gorditas with chicharrón and carnitas, chilaquiles verdes, flautas, mole enmoladas. Listed in the Michelin Guide; ~25 min wait is typical.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Comal+Oculto+San+Miguel+Chapultepec+Mexico+City)
+
+## Ultramarinos Demar
+
+Lucho Martínez's seafood spot in a renovated Art Deco building on Mérida, Roma Norte — diner-meets-bistro look, raw bar through pastas and mains, American/continental seafood with Mexican flair. Michelin Bib Gourmand.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Ultramarinos+Demar+Mérida+Roma+Norte+Mexico+City)
+
+## Bar Mauro
+
+1970s-Italian-inspired aperitivo bar on Tabasco, Roma Norte, from founder Mauro Mendoza's grandsons; Negroni 1929, Banana Adonis, charcuterie/cheese boards and a notable cheeseburger. Campari "One to Watch" at World's 50 Best Bars 2025.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bar+Mauro+Tabasco+Roma+Norte+Mexico+City)
+
+## Caimán
+
+Easygoing terrazzo bar on Av. Nuevo León in Hipódromo/Condesa — one of the few "real bars" in the area (not a restaurant bar); martinis, natural wine, canned sardines, chips with mussels, potato salad.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Caimán+Nuevo+León+Condesa+Mexico+City)
+
+## Despacho Margarita
+
+Dedicated margarita bar and spirits shop on Córdoba, Roma Norte, from the Licorería Limantour team (opened late 2025) — ~120 tequilas/mezcals, Margarita Clásica, a nine-chili spicy margarita, rotating frozen flavors. Small, lively, neighborhood feel.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Despacho+Margarita+Córdoba+Roma+Norte+Mexico+City)
+
+## Café Tormenta
+
+Tiny street-counter coffee stand on Puebla, Roma Norte, from chef Lucho Martínez — Mexican single-origin beans (Veracruz, Oaxaca), Rosita Latte (cacao flower), Óleo Coldbrew, sandwiches and churros, vinyl playing on a turntable.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Café+Tormenta+Puebla+Roma+Norte+Mexico+City)
+
+## Churrería El Moro
+
+CDMX's churro reference point since 1935 — classic long churros with chocolate español. The Eje Central location in Centro Histórico is the original/iconic one (open 24 hrs); other branches (Parque México, Roma, Coyoacán) are more convenient if you're not near downtown.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Churrería+El+Moro+Eje+Central+Lázaro+Cárdenas+42+Centro+Histórico+Mexico+City) · [Website](https://elmoro.mx/en/)
+
+## Churrería General de la República
+
+Casual local churro stop on Francisco Sosa, handy when you're near Casa Azul or the Coyoacán plazas — more neighborhood snack counter than polished chain. Get the classic sugar-cinnamon plus a relleno (guava, cajeta, chocolate, etc).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Churrería+General+de+la+República+Francisco+Sosa+Coyoacán+Mexico+City)
+
+## El Kiosko de Coyoacán
+
+Churro and ice cream kiosk right at Jardín Plaza Hidalgo by Jardín Centenario — fresh filled churros (rose petals, seasonal flavors), paletas, aguas frescas. Less predictable than the sit-down churrerías, but an easy stop after wandering the Coyoacán plazas.
+
+[Map](https://www.google.com/maps/search/?api=1&query=El+Kiosko+de+Coyoacán+Jardín+Plaza+Hidalgo+Coyoacán+Mexico+City)
+
+## Zinco Jazz Club
+
+Essential CDMX jazz spot in a former bank vault in Centro Histórico; proper club feel for a focused sit-down night. Open Wed–Sat from ~9 p.m.; cover is usually around $200–300 MXN. Reserve ahead.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Zinco+Jazz+Club+Motolinia+20+Centro+Histórico+Mexico+City) · [Website](https://zincojazz.com/)
+
+## Teatro Bar El Vicio
+
+Mexico City's clearest cabaret pick — satire, dark humor, politics, and music in a bar-theater setting in Coyoacán. Check their cartelera for the current lineup; tickets via Boletópolis or at the box office (Tue–Sat).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Teatro+Bar+El+Vicio+Madrid+13+Coyoacán+Mexico+City) · [Website](https://elvicio.com.mx/cartelera/)
+
+## Salón Los Ángeles
+
+Dance hall since 1937 in Guerrero — danzón, salsa, cumbia, mambo, chachachá as a living social tradition rather than a concert venue. Cartelera still runs Martes de Danzón and tropical dance nights. Open Tue–Sun, 5–11 p.m.; cover ~$250 MXN (women often free 8–10 p.m.).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Salón+Los+Ángeles+Lerdo+206+Guerrero+Mexico+City) · [Website](https://salonlosangeles.mx/)
+
+## Parker & Lenox
+
+Speakeasy-style listening bar in Juárez, in an old bank vault — front café/bar leads through a hidden door to a back jazz club with original national and international acts. Live bands Tue–Sat; open 1 p.m.–2 a.m.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Parker+%26+Lenox+Milán+14+Juárez+Mexico+City) · [Website](https://parkerandlenox.com/)
+
+## Barba Azul
+
+Old-school cabaret/dance hall since 1950 in Obrera — tropical rhythms, live music, salsa/cumbia/bachata, tied to the city's renewed sonidero scene. Late-night, Tue–Sat 8 p.m.–3 a.m.; no cover, just a 15% service charge (special events ~$150–300 MXN).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Barba+Azul+Simón+Bolívar+291+Obrera+Mexico+City)
+
+## Casa Franca
+
+House-party/salon-feeling jazz bar in an old Roma Norte mansion (Mérida 109), with local and international musicians across several rooms and terraces. Reservations and lineup mostly via Instagram/WhatsApp; ~$150 MXN cover added to the bill.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Casa+Franca+Mérida+109+Roma+Norte+Mexico+City)
+
+## Mercado de Tepito
+
+The city's largest street market, sprawling for blocks just north of Centro Histórico — historically the home of *fayuca* (smuggled/contraband goods: electronics, clothing, anything), now a mix of that plus everyday wares. Open daily ~8am–6pm, biggest and most chaotic on Sundays. Known for pickpocketing — go light, alert, and ideally with a local guide.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Mercado+de+Tepito+Mexico+City)
+
+## Jazzatlán Capital
+
+Probably the best first stop for CDMX jazz right now — intimate and serious without feeling stiff. Billed as jazz, world music, and música de raíz; downstairs weekly projects plus upstairs ticketed concerts/residencies. Open Tue–Sun, 5 p.m.–midnight; arrive early, popular sets fill up.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Jazzatlán+Capital+Guanajuato+239+Roma+Norte+Mexico+City) · [Website](https://www.jazzatlan.club/capital)
