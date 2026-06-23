@@ -42,7 +42,6 @@
 | Nari                         | Thai fusion                 | Japantown         | $$$  | 🟡 6      | [link](#nari)                      |
 | Greens                       | Healthy                     | Marina            | $$$  | 🟢 8      | [link](#greens)                    |
 | MaMo                         | Colombian / Venezuelan      | Marina            | $$   | 🟢 8      | [link](#mamo)                      |
-| The Marshall Store           | Oysters, Seafood            | Marshall, CA      | $$   | ? ⚪      | [link](#the-marshall-store)        |
 | Angie's Pizza                | Pizza                       | Mission           | $$   | 🟢 8      | [link](#angies-pizza)              |
 | Atlas Cafe                   | Sandwiches                  | Mission           | $$   | 🟢 8      | [link](#atlas-cafe)                |
 | Baklavastory                 | Turkish Bakery              | Mission           | $    | ? ⚪      | [link](#baklavastory)              |
@@ -60,6 +59,7 @@
 | El Correano                  | Korean Fusion               | Mission           | $$   | 🟡 6      | [link](#el-correano)               |
 | El Tepa Taqueria             | Mexican                     | Mission           | $$   | 🟡 6      | [link](#el-tepa-taqueria)          |
 | Gallardo's Mexican Rest      | Mexican                     | Mission           | $    | 🟡 6      | [link](#gallardos-mexican-rest)    |
+| Garden Creamery              | Ice Cream                   | Mission           | $$   | ⭐ 10     | [link](#garden-creamery)           |
 | Hem by Lequy                 | Vietnamese                  | Mission           | $$   | 🟢 8      | [link](#hem-by-lequy)              |
 | Hi Hat                       | Pizza                       | Mission           | $$   | ? ⚪      | [link](#hi-hat)                    |
 | Humphry Slocombe             | Ice Cream                   | Mission           | $$   | ? ⚪      | [link](#humphry-slocombe)          |
@@ -127,6 +127,7 @@
 | Pastel Brazzuca              | Brazillian Street Food      | Potrero Hill      | $$   | 🟢 8      | [link](#pastel-brazzuca)           |
 | Po'Boys Kitchen              | Cajun                       | Potrero Hill      | $$   | 🟡 7      | [link](#poboys-kitchen)            |
 | The Morris                   | New American                | Potrero Hill      | $$$  | ⭐ 9      | [link](#the-morris)                |
+| Dalida                       | Turkish, Mediterranean      | Presidio          | $$$  | ⭐ 9      | [link](#dalida)                    |
 | Arsicault                    | Bakery, Croissants          | Richmond Inner    | $$   | ⭐ 10     |                                    |
 | Artesano                     | Peruvian                    | Richmond Inner    | $$   | 🟢 8      | [link](#artesano)                  |
 | Burma Superstar              | Burmese                     | Richmond Inner    | $$   | 🟡 6      | [link](#burma-superstar)           |
@@ -136,7 +137,6 @@
 | Cinderella Bakery & Cafe     | Russian bakery              | Richmond Inner    | $$   | 🟢 8      | [link](#cinderella-bakery--cafe)   |
 | Derm                         | Thai                        | Richmond Inner    | $$   | 🟡 6      | [link](#derm)                      |
 | Eternal Springs              | Banh Mi, Juice              | Richmond Inner    | $    | 🟡 6      | [link](#eternal-springs)           |
-| Garden Creamery              | Ice Cream                   | Richmond Inner    | $$   | ? ⚪      | [link](#garden-creamery)           |
 | Halu                         | Japanese, Tapas             | Richmond Inner    | $$   | 🟡 7      | [link](#halu)                      |
 | Kitchen Istanbul             | Turkish                     | Richmond Inner    | $$   | ? ⚪      |                                    |
 | Koja Kitchen                 | Asian Fusion                | Richmond Inner    | $$   | ? ⚪      |                                    |
@@ -183,7 +183,6 @@
 | Pazzia                       | Italian                     | SoMa              | $$   | 🟡 6      | [link](#pazzia)                    |
 | Pie Squared                  | Pizza, Detroit style        | SoMa              | $$   | 🟡 6      | [link](#pie-squared)               |
 | Rooh                         | Indian Fusion               | SoMa              | $$$  | 🟢 8      | [link](#rooh)                      |
-| Skool                        | Seafood, Sushi              | SoMa              | $$   | 🟢 8      | [link](#skool)                     |
 | Slices                       | Pizza                       | SoMa              | $$   | 🟡 6      |                                    |
 | Sowl Bowls                   | Thai Street Food            | SoMa              | $$   | 🟡 6      | [link](#sowl-bowls)                |
 | Sushirrito                   | Sushi                       | SoMa              | $$   | ⭐ 10     |                                    |
@@ -278,6 +277,7 @@
 | Stookey's Club Moderne       | Cocktails, Art Deco     | Polk              | $$   | 🟢 8      | [link](#stookeys-club-moderne)      |
 | Question Mark Tavern         | Dive Bar                | Russian Hill      | $    | 🟡 7      | [link](#question-mark-tavern)       |
 | PCH (Pacific Cocktail Haven) | Cocktails               | Union Square      | $$   | ? ⚪      | [link](#pch-pacific-cocktail-haven) |
+| The Philosophers Club        | Dive Bar, Sports Bar    | West Portal       | $    | ? ⚪      | [link](#the-philosophers-club)      |
 
 ## Coffee & Boba
 
@@ -591,12 +591,6 @@ Ok, not great. Overpriced.
 - ajiaco = very good
 
 [Map](https://www.google.com/maps/search/?api=1&query=MaMo+San+Francisco+CA)
-
-## The Marshall Store
-
-Oyster bar/general store on Tomales Bay; good day trip for fresh oysters.
-
-[Map](https://www.google.com/maps/search/?api=1&query=The+Marshall+Store+Marshall+CA)
 
 ## Sanguchon Eatery
 
@@ -1066,6 +1060,12 @@ Combo: Hard bread, ingred were fine but didn't "pop"
 
 [Map](https://www.google.com/maps/search/?api=1&query=The+Morris+San+Francisco+CA)
 
+## Dalida
+
+Upscale Eastern Mediterranean/Turkish, inspired by Istanbul, in the Presidio.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Dalida+San+Francisco+CA)
+
 ## Ganim's
 
 Tasty, greasy burgers. Dave's = very good
@@ -1206,7 +1206,7 @@ Not worth the wait
 
 ## Garden Creamery
 
-Asian-inspired ice cream flavors in the Inner Richmond.
+Asian-inspired ice cream flavors in the Mission.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Garden+Creamery+San+Francisco+CA)
 
@@ -1370,14 +1370,6 @@ Expensive, but it IS a pretty darn good burger
 Nice ambiance, ho-hum food
 
 [Map](https://www.google.com/maps/search/?api=1&query=Pazzia+San+Francisco+CA)
-
-## Skool
-
-- A bit pricey, but good. Uni Flan = very good
-- Salmon Chowder = great(rich)
-- pana cotta = ok
-
-[Map](https://www.google.com/maps/search/?api=1&query=Skool+San+Francisco+CA)
 
 ## Pie Squared
 
@@ -2073,6 +2065,12 @@ Pier-side spot with great bay views.
 Good neighborhood bar.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Question+Mark+Tavern+San+Francisco+CA)
+
+## The Philosophers Club
+
+Historic West Portal dive bar/tavern since 1960, coin-operated pool table, sports-themed mural.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Philosophers+Club+San+Francisco+CA)
 
 ## Buddha Lounge
 

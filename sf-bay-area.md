@@ -2,13 +2,14 @@
 
 ## Restaurants
 
-| Name                        | Type               | Area        | Cost | 🧐 Rating | Link                                 |
-|-----------------------------|--------------------|-------------|------|-----------|--------------------------------------|
-| Cafe Jolie                  | French, Brunch     | Alameda     | $$   | 🟡 7      | [link](#cafe-jolie)                  |
-| Fowl + Fare                 | Chicken Sandwiches | Alameda     | $    | ? ⚪      | [link](#fowl--fare)                  |
-| Speisekammer                | German             | Alameda     | $$   | 🟢 8      | [link](#speisekammer)                |
-| Tasty Pizza and Indian Subs | Pizza, Indian      | Santa Clara | $    | 🟢 8      | [link](#tasty-pizza-and-indian-subs) |
-| Falafel Stop                | Falafel            | Sunnyvale   | $    | ⭐ 10     | [link](#falafel-stop)                |
+| Name                        | Type               | Area         | Cost | 🧐 Rating | Link                                 |
+|-----------------------------|--------------------|--------------|------|-----------|--------------------------------------|
+| Cafe Jolie                  | French, Brunch     | Alameda      | $$   | 🟡 7      | [link](#cafe-jolie)                  |
+| Fowl + Fare                 | Chicken Sandwiches | Alameda      | $    | ? ⚪      | [link](#fowl--fare)                  |
+| Speisekammer                | German             | Alameda      | $$   | 🟢 8      | [link](#speisekammer)                |
+| The Marshall Store          | Oysters, Seafood   | Marshall, CA | $$   | ? ⚪      | [link](#the-marshall-store)          |
+| Tasty Pizza and Indian Subs | Pizza, Indian      | Santa Clara  | $    | 🟢 8      | [link](#tasty-pizza-and-indian-subs) |
+| Falafel Stop                | Falafel            | Sunnyvale    | $    | ⭐ 10     | [link](#falafel-stop)                |
 
 ## Drink (Alcohol)
 
@@ -90,3 +91,9 @@ Interactive museum with 100+ playable pinball machines; admission includes unlim
 Small Greco-Roman style temple and reflecting pool off I-280 (via Edgewood Rd to Cañada Rd), built in 1934 to celebrate completion of the Hetch Hetchy aqueduct. Pedestrian access 9am-3:30pm daily.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Pulgas+Water+Temple+Redwood+City) · [Website](https://www.sfpuc.gov/learning/come-visit/pulgas-water-temple)
+
+## The Marshall Store
+
+Oyster bar/general store on Tomales Bay; good day trip for fresh oysters.
+
+[Map](https://www.google.com/maps/search/?api=1&query=The+Marshall+Store+Marshall+CA)
