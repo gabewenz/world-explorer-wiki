@@ -4,6 +4,8 @@
 
 | Name                             | Type                            | Area                    | Cost | 🧐 Rating | Link                                      |
 |----------------------------------|---------------------------------|-------------------------|------|-----------|-------------------------------------------|
+| Grand Rapids Grand Prix          | Entertainment - Go-Kart         | Byron Center            | $$$  | 🟢 8      | [link](#grand-rapids-grand-prix)          |
+| Mr. Foisie's Pasties             | Restaurant - Pasty              | Cadillac                | $    | 🟢 8      | [link](#mr-foisies-pasties)               |
 | Belle's Coffeehouse              | Cafe - Coffee                   | Downtown                | $$   | ⭐ 9      | [link](#belles-coffeehouse)               |
 | Big Rapids Riverwalk             | Park - Trail                    | Downtown                | Free | ⭐ 10     | [link](#big-rapids-riverwalk)             |
 | Blue Cow Cafe                    | Restaurant - Cafe               | Downtown                | $$   | 🟡 7      | [link](#blue-cow-cafe)                    |
@@ -13,6 +15,7 @@
 | Taco Frida Cantina               | Restaurant - Taco               | Downtown                | $$   | ? ⚪      | [link](#taco-frida-cantina)               |
 | The Backroom                     | Cafe - Coffee                   | Downtown                | $$   | 🟡 7      | [link](#the-backroom)                     |
 | Jim Crow Museum                  | Museum - History                | Ferris State University | Free | 🟢 8      | [link](#jim-crow-museum)                  |
+| Clubhouse Arcade                 | Entertainment - Arcade          | Fremont                 | $$   | ⭐ 9      | [link](#clubhouse-arcade)                 |
 | Charles E Fairman Community Pool | Park - Pool                     | Hutchinson St           | $    | ⭐ 9      | [link](#charles-e-fairman-community-pool) |
 | Jersey Mike's Subs               | Restaurant - Sandwich           | Isabella Dr             | $    | 🟢 8      | [link](#jersey-mikes-subs)                |
 | Northend Riverside Park          | Park - Disc Golf                | Northend                | Free | ⭐ 9      | [link](#northend-riverside-park)          |
@@ -122,3 +125,21 @@ City community pool and park on Hutchinson St.
 - Great pool with very affordable admission
 
 [Map](https://www.google.com/maps/search/?api=1&query=Charles+E+Fairman+Community+Pool+106+Hutchinson+St+Big+Rapids+MI+49307)
+
+## Grand Rapids Grand Prix
+
+Indoor electric go-kart racing venue in Byron Center, south of Grand Rapids.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Grand+Rapids+Grand+Prix+8455+Byron+Commerce+Dr+SW+Byron+Center+MI+49315)
+
+## Mr. Foisie's Pasties
+
+Pasty shop in Cadillac since 1987, making beef, chicken, and veggie pasties plus pies and baked goods.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Mr+Foisie%27s+Pasties+154+Leisure+St+Cadillac+MI+49601)
+
+## Clubhouse Arcade
+
+Pay-one-price arcade in Fremont with free play on most machines.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Clubhouse+Arcade+7020+W+48th+St+Fremont+MI+49412)
