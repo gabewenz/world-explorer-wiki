@@ -11,7 +11,6 @@
 | Golden Star                  | Vietnamese                  | Chinatown         | $    | 🟢 8      | [link](#golden-star)               |
 | Hang Ah                      | DimSum                      | Chinatown         | TODO | ? ⚪      | [link](#hang-ah)                   |
 | Himalayan Pizza & Momos      | Indian Pizza                | Civic Center      | $$   | ? ⚪      |                                    |
-| Say Cheese                   | Cheese, Sandwiches          | Cole Valley       | $$   | 🟡 6      | [link](#say-cheese)                |
 | Besharam                     | Indian                      | Dogpatch          | $$$  | 🟡 7      | [link](#besharam)                  |
 | Gilbeths Latin Fusion        | Tacos, etc                  | Dogpatch          | $$   | 🟢 8      | [link](#gilbeths-latin-fusion)     |
 | Kin Khao                     | Thai                        | Dogpatch          | $$   | 🟡 6      | [link](#kin-khao)                  |
@@ -387,13 +386,6 @@ Good Bun (Vermiceli)
 Tom recommendation (Pork of July Party)
 
 [Map](https://www.google.com/maps/search/?api=1&query=Hang+Ah+San+Francisco+CA)
-
-## Say Cheese
-
-- Jamon Serrano = good
-- bread isn't the best, other ingredients are good
-
-[Map](https://www.google.com/maps/search/?api=1&query=Say+Cheese+San+Francisco+CA)
 
 ## Serpentine
 
