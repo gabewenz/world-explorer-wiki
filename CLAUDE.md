@@ -113,7 +113,19 @@ business, delete its notes too).
 ### Cost
 
 For food and drink tables, a `Cost` column is used with `Free` / `$` / `$$` / `$$$` /
-`$$$$` to indicate relative price.
+`$$$$` to indicate relative price per person in USD. For bars and drink venues, assume
+two drinks per person when estimating cost.
+
+Always look up actual menu prices when adding a place — do not guess based on the
+description or ambiance. Check Google Maps, the restaurant's website, or a menu aggregator
+to confirm a realistic per-person spend before assigning a cost symbol.
+
+| Symbol | USD per person |
+|--------|----------------|
+| `$`    | under $20      |
+| `$$`   | $20–74         |
+| `$$$`  | $75–149        |
+| `$$$$` | $150 or more   |
 
 ### Rating
 
