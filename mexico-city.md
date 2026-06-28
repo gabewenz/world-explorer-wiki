@@ -17,10 +17,12 @@
 | Altanera                    | Mexican, Baja           | Roma Norte             | $$   | ? ⭐      | [link](#altanera)                    |
 | Bar Nino                    | Italian, Mediterranean  | Roma Norte             | $$$  | ? 🟡      | [link](#bar-nino)                    |
 | Blanco Colima               | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#blanco-colima)               |
+| Campobaja                   | Seafood, Baja           | Roma Norte             | $$   | ? ⭐      | [link](#campobaja)                   |
 | Castizo                     | Spanish, Mediterranean  | Roma Norte             | $$$  | ? ⭐      | [link](#castizo)                     |
 | Em                          | Mexican-Japanese        | Roma Norte             | $$$$ | ? ⭐      | [link](#em)                          |
 | Gardela                     | Argentine, Steakhouse   | Roma Norte             | $$$  | ? ⭐      | [link](#gardela)                     |
 | Las Costillas de San Luis   | Mexican, Ribs           | Roma Norte             | $    | ? ⭐      | [link](#las-costillas-de-san-luis)   |
+| La 89                       | Mexican, Tacos          | Roma Norte             | $    | ? ⭐      | [link](#la-89)                       |
 | Marcello                    | Italian                 | Roma Norte             | $$$  | ? ⭐      | [link](#marcello)                    |
 | Martínez                    | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#martínez)                    |
 | Máximo                      | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#máximo)                      |
@@ -452,3 +454,15 @@ Chef Eduardo "Lalo" García's bistro on Tonalá in Roma Norte; contemporary Mexi
 Chef Lucho Martínez's Parisian-inspired bistro on Puebla 90 in Roma Norte (Martínez also runs Em, Café Tormenta, Ultramarinos Demar); contemporary Mexican with French and Japanese touches. Buzzy artist-and-chef crowd; highlights include the green goddess salad and grilled chicken. Book ahead.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Martínez+Puebla+90+Roma+Norte+Mexico+City) · [Website](https://martinez.rest/)
+
+## Campobaja
+
+Baja California fish-camp cooking in an industrial-chic Roma Norte space; menu built for sharing — ceviches, aguachiles, tacos, tostadas, burritos, grilled octopus, fried spiny lobster. Michelin Plate. To try: beans, cheese & shrimp burrito.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Campobaja+Roma+Norte+Mexico+City)
+
+## La 89
+
+Michelin Bib Gourmand taquería/birriería at Colima 134, Roma Norte; Baja California-inspired menu of birria and carne asada tacos, quesabirrias (with consommé), tortas, and vampiros (crispy tortilla with meat, cheese, guacamole). To try: torta campechana, vino EL99.
+
+[Map](https://www.google.com/maps/search/?api=1&query=La+89+Colima+134+Roma+Norte+Mexico+City)
