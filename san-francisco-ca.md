@@ -60,7 +60,7 @@
 | Gallardo's Mexican Rest      | Mexican                     | Mission           | $    | 🟡 6      | [link](#gallardos-mexican-rest)    |
 | Garden Creamery              | Ice Cream                   | Mission           | $$   | ⭐ 10     | [link](#garden-creamery)           |
 | Hem by Lequy                 | Vietnamese                  | Mission           | $$   | 🟢 8      | [link](#hem-by-lequy)              |
-| Hi Hat                       | Pizza                       | Mission           | $$   | ? ⚪      | [link](#hi-hat)                    |
+| Hi Hat                       | Pizza                       | Mission           | $$   | ⭐ 9      | [link](#hi-hat)                    |
 | Humphry Slocombe             | Ice Cream                   | Mission           | $$   | ? ⚪      | [link](#humphry-slocombe)          |
 | Kolapasi                     | South Indian                | Mission           | $$   | 🟢 8      | [link](#kolapasi)                  |
 | Komaaj                       | Persian, Norther Iran       | Mission           | $$   | 🟢 8      | [link](#komaaj)                    |
@@ -1648,6 +1648,11 @@ Ca Kho To recommended by Uber driver
 ## Hi Hat
 
 NY-style pies (only ~5 options) plus burgers and Buffalo wings on Valencia St; $3 slices after 9pm.
+
+- Good pizza, good beer
+- Order whole pizzas or pizza-by-the-slice; not all slices available at any given time
+- Pepperoni pizza = very good
+- Mushroom pizza = pretty good
 
 [Map](https://www.google.com/maps/search/?api=1&query=Hi+Hat+San+Francisco+CA)
 

@@ -10,6 +10,7 @@
 | The Marshall Store          | Oysters, Seafood   | Marshall, CA | $$   | ? ⚪      | [link](#the-marshall-store)          |
 | Tasty Pizza and Indian Subs | Pizza, Indian      | Santa Clara  | $    | 🟢 8      | [link](#tasty-pizza-and-indian-subs) |
 | Falafel Stop                | Falafel            | Sunnyvale    | $    | ⭐ 10     | [link](#falafel-stop)                |
+| June's Pizza                | Pizza              | West Oakland | $$   | ? ⚪      | [link](#junes-pizza)                 |
 
 ## Drink (Alcohol)
 
@@ -91,6 +92,12 @@ Interactive museum with 100+ playable pinball machines; admission includes unlim
 Small Greco-Roman style temple and reflecting pool off I-280 (via Edgewood Rd to Cañada Rd), built in 1934 to celebrate completion of the Hetch Hetchy aqueduct. Pedestrian access 9am-3:30pm daily.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Pulgas+Water+Temple+Redwood+City) · [Website](https://www.sfpuc.gov/learning/come-visit/pulgas-water-temple)
+
+## June's Pizza
+
+Wood-fired pies in an unmarked West Oakland warehouse; tiny menu (margherita, pepperoni, rotating seasonal), famous for burying every pizza in a blizzard of fresh-grated parmesan. Whole pies only until 9pm (~$35), then $5–6 slices until midnight — check Instagram for nightly specials.
+
+[Map](https://www.google.com/maps/search/?api=1&query=June%27s+Pizza+West+Oakland)
 
 ## The Marshall Store
 
