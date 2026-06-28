@@ -6,6 +6,7 @@
 |-----------------------------|-------------------------|------------------------|------|-----------|--------------------------------------|
 | Los Tolucos                 | Mexican, Pozole         | Algarín                | $$   | ? ⭐      | [link](#los-tolucos)                 |
 | La Perla Tapatía            | Mexican, Pozole, Birria | Azcapotzalco           | $$   | ? ⭐      | [link](#la-perla-tapatía)            |
+| Gaba                        | Contemporary Mexican    | Condesa                | $$$  | ? ⭐      | [link](#gaba)                        |
 | Las Costillas de la Condesa | Mexican, Tacos          | Condesa                | $    | ? ⭐      | [link](#las-costillas-de-la-condesa) |
 | Santo Pozole                | Mexican, Pozole         | Cuauhtémoc             | $    | ? ⭐      | [link](#santo-pozole)                |
 | Fonda Margarita             | Mexican, Breakfast      | Del Valle              | $    | ? ⭐      | [link](#fonda-margarita)             |
@@ -14,12 +15,15 @@
 | Pujol                       | Modern Mexican          | Polanco                | $$$$ | ? ⭐      | [link](#pujol)                       |
 | Quintonil                   | Modern Mexican          | Polanco                | $$$$ | ? ⭐      | [link](#quintonil)                   |
 | Altanera                    | Mexican, Baja           | Roma Norte             | $$   | ? ⭐      | [link](#altanera)                    |
+| Bar Nino                    | Italian, Mediterranean  | Roma Norte             | $$$  | ? 🟡      | [link](#bar-nino)                    |
 | Blanco Colima               | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#blanco-colima)               |
 | Castizo                     | Spanish, Mediterranean  | Roma Norte             | $$$  | ? ⭐      | [link](#castizo)                     |
 | Em                          | Mexican-Japanese        | Roma Norte             | $$$$ | ? ⭐      | [link](#em)                          |
 | Gardela                     | Argentine, Steakhouse   | Roma Norte             | $$$  | ? ⭐      | [link](#gardela)                     |
 | Las Costillas de San Luis   | Mexican, Ribs           | Roma Norte             | $    | ? ⭐      | [link](#las-costillas-de-san-luis)   |
 | Marcello                    | Italian                 | Roma Norte             | $$$  | ? ⭐      | [link](#marcello)                    |
+| Martínez                    | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#martínez)                    |
+| Máximo                      | Contemporary Mexican    | Roma Norte             | $$$  | ? ⭐      | [link](#máximo)                      |
 | Rosetta                     | Italian-Mexican         | Roma Norte             | $$$  | ? ⭐      | [link](#rosetta)                     |
 | Ultramarinos Demar          | Seafood, Mexican        | Roma Norte             | $$   | ? ⭐      | [link](#ultramarinos-demar)          |
 | Doña Anastasia              | Mexican, Quesadillas    | Roma Sur               | $    | ? ⭐      | [link](#doña-anastasia)              |
@@ -28,11 +32,12 @@
 
 ## Drink (Alcohol)
 
-| Name               | Type                            | Area       | Cost | 🧐 Rating | Link                        |
-|--------------------|---------------------------------|------------|------|-----------|-----------------------------|
-| Caimán             | Wine Bar                        | Condesa    | $$   | ? ⭐      | [link](#caimán)             |
-| Bar Mauro          | Cocktail Bar, Italian Aperitivo | Roma Norte | $$$  | ? ⭐      | [link](#bar-mauro)          |
-| Despacho Margarita | Margarita Bar                   | Roma Norte | $$   | ? ⭐      | [link](#despacho-margarita) |
+| Name                | Type                            | Area       | Cost | 🧐 Rating | Link                         |
+|---------------------|---------------------------------|------------|------|-----------|------------------------------|
+| Caimán              | Wine Bar                        | Condesa    | $$   | ? ⭐      | [link](#caimán)              |
+| Handshake Speakeasy | Cocktail Bar, Speakeasy         | Juárez     | $$   | ? ⭐      | [link](#handshake-speakeasy) |
+| Bar Mauro           | Cocktail Bar, Italian Aperitivo | Roma Norte | $$$  | ? ⭐      | [link](#bar-mauro)           |
+| Despacho Margarita  | Margarita Bar                   | Roma Norte | $$   | ? ⭐      | [link](#despacho-margarita)  |
 
 ## Coffee & Boba
 
@@ -43,6 +48,7 @@
 | Cafebrería El Péndulo | Coffee, Bookstore | Roma Norte | $$   | ? 🟢      | [link](#cafebrería-el-péndulo) |
 | Café Tormenta         | Coffee            | Roma Norte | $    | ? 🟢      | [link](#café-tormenta)         |
 | Cardinal Casa de Café | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#cardinal-casa-de-café) |
+| Counterculture Club   | Coffee, Smoothies | Roma Norte | $    | ? 🟢      | [link](#counterculture-club)   |
 | MOMO Coffee           | Coffee            | Roma Norte | $$   | ? 🟢      | [link](#momo-coffee)           |
 
 ## Dessert
@@ -63,7 +69,9 @@
 | Name                           | Type                 | Area                   | Cost | 🧐 Rating | Link                                    |
 |--------------------------------|----------------------|------------------------|------|-----------|-----------------------------------------|
 | Centro Histórico               | Historic District    | Centro Histórico       | Free | ? ⭐      | [link](#centro-histórico)               |
+| MUNAL                          | Art Museum           | Centro Histórico       | $    | ? ⭐      | [link](#munal)                          |
 | Palacio de Bellas Artes        | Theater, Museum      | Centro Histórico       | $    | ? ⭐      | [link](#palacio-de-bellas-artes)        |
+| Palacio Postal                 | Historic Building    | Centro Histórico       | Free | ? ⭐      | [link](#palacio-postal)                 |
 | Museo Nacional de Antropología | Museum               | Chapultepec            | $    | ? ⭐      | [link](#museo-nacional-de-antropología) |
 | Frida Kahlo Museum (Casa Azul) | Historic House, Art  | Coyoacán               | $    | ? ⭐      | [link](#frida-kahlo-museum-casa-azul)   |
 | Museo Soumaya                  | Art Museum           | Nuevo Polanco          | Free | ? ⭐      | [link](#museo-soumaya)                  |
@@ -396,3 +404,51 @@ The city's largest street market, sprawling for blocks just north of Centro Hist
 Probably the best first stop for CDMX jazz right now — intimate and serious without feeling stiff. Billed as jazz, world music, and música de raíz; downstairs weekly projects plus upstairs ticketed concerts/residencies. Open Tue–Sun, 5 p.m.–midnight; arrive early, popular sets fill up.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Jazzatlán+Capital+Guanajuato+239+Roma+Norte+Mexico+City) · [Website](https://www.jazzatlan.club/capital)
+
+## Gaba
+
+Chef Victor Toriz's intimate Condesa restaurant; shareable plates blending seasonal and traditional Mexican flavors — offal, seafood, wagyu tartare, housemade cocktails. Minimalist upstairs dining room with polished, knowledgeable service. Michelin Guide listed. Closed Sundays.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Gaba+Restaurante+Mazatlán+190+Condesa+Mexico+City)
+
+## Bar Nino
+
+Italian-Mediterranean small plates from the team behind Hugo wine bar — panzanella, prosciutto and melon, housemade ravioli, squid with mandarin sauce; attentive but unpretentious. On Sinaloa at Roma Norte.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Bar+Nino+Sinaloa+252+Roma+Norte+Mexico+City)
+
+## Handshake Speakeasy
+
+Prohibition-style speakeasy inside the NH Hotel on Amberes, Juárez — black-and-gold interiors in a former shoe store. Ranked #2 in the World's 50 Best Bars 2025. Reservation required; book well ahead.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Handshake+Speakeasy+Amberes+65+Juárez+Mexico+City) · [Website](https://www.handshakespeakeasy.com/)
+
+## Counterculture Club
+
+Specialty coffee and smoothies shop with a yoga-studio origin; Roma Norte location at San Luis Potosí 134, also in Polanco. Good for a post-workout or low-key catch-up.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Counterculture+Club+San+Luis+Potosí+134+Roma+Norte+Mexico+City)
+
+## MUNAL
+
+Museo Nacional de Arte at Tacuba 8, Centro Histórico; 3,000+ works spanning 16th–20th century Mexican art. ~95 MXN; free for students, teachers, and seniors. Tue–Sun, 10am–6pm. A block from Bellas Artes — easy to combine.
+
+[Map](https://www.google.com/maps/search/?api=1&query=MUNAL+Museo+Nacional+de+Arte+Tacuba+8+Centro+Histórico+Mexico+City) · [Website](https://munal.mx/en)
+
+## Palacio Postal
+
+Adamo Boari's 1907 eclectic post office (Gothic, Baroque, Renaissance) on Tacuba next to Bellas Artes — still a working post office with an ornate main hall and a small postal museum upstairs. Free to enter; a quick must-see on any Centro walk.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Palacio+Postal+Tacuba+1+Centro+Histórico+Mexico+City)
+
+## Máximo
+
+Chef Eduardo "Lalo" García's bistro on Tonalá in Roma Norte; contemporary Mexican with French technique, seasonal à la carte, great ambiance. One Michelin star (2025); ranked #30 on Latin America's 50 Best 2025. Reservations recommended.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Máximo+Bistrot+Tonalá+Roma+Norte+Mexico+City) · [Website](https://maximo.rest/)
+
+## Martínez
+
+Chef Lucho Martínez's Parisian-inspired bistro on Puebla 90 in Roma Norte (Martínez also runs Em, Café Tormenta, Ultramarinos Demar); contemporary Mexican with French and Japanese touches. Buzzy artist-and-chef crowd; highlights include the green goddess salad and grilled chicken. Book ahead.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Martínez+Puebla+90+Roma+Norte+Mexico+City) · [Website](https://martinez.rest/)

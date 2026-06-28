@@ -9,6 +9,7 @@
 | Taco Frida Cantina       | Taco                | Big Rapids, Downtown    | $$   | ? ⚪      | [link](#taco-frida-cantina)      |
 | Jersey Mike's Subs       | Sandwich            | Big Rapids, Isabella Dr | $    | 🟢 8      | [link](#jersey-mikes-subs)       |
 | Mr. Foisie's Pasties     | Pasty               | Cadillac                | $    | 🟢 8      | [link](#mr-foisies-pasties)      |
+| Rock's Landing           | New American        | Frankfort               | $$   | ⭐ 9      | [link](#rocks-landing)           |
 | Kick Start Cafe          | American, Breakfast | Grant                   | $    | 🟢 8      | [link](#kick-start-cafe)         |
 | Hit the Road Joe         | American, Brunch    | Newaygo                 | $$   | 🟢 8      | [link](#hit-the-road-joe)        |
 | Fatbelly Deli & Creamery | Sandwich, Ice Cream | Stanwood                | $$   | 🟢 8      | [link](#fatbelly-deli--creamery) |
@@ -44,10 +45,12 @@
 
 ## Attractions
 
-| Name            | Type            | Area       | Cost | 🧐 Rating | Link                     |
-|-----------------|-----------------|------------|------|-----------|--------------------------|
-| Jim Crow Museum | Museum, History | Big Rapids | Free | 🟢 8      | [link](#jim-crow-museum) |
-| Holland         | Town            | Holland    | Free | 🟢 8      | [link](#holland)         |
+| Name                                | Type              | Area       | Cost | 🧐 Rating | Link                                        |
+|-------------------------------------|-------------------|------------|------|-----------|---------------------------------------------|
+| Jim Crow Museum                     | Museum, History   | Big Rapids | Free | 🟢 8      | [link](#jim-crow-museum)                    |
+| Crystal Lake Alpaca Farm & Boutique | Farm              | Frankfort  | Free | 🟢 8      | [link](#crystal-lake-alpaca-farm--boutique) |
+| Holland                             | Town              | Holland    | Free | 🟢 8      | [link](#holland)                            |
+| Historic Fishtown                   | Historic District | Leland     | Free | 🟢 8      | [link](#historic-fishtown)                  |
 
 ## Fun
 
@@ -223,3 +226,21 @@ Free-play retro arcade in downtown Rockford with seven themed rooms of pinball m
 - Has some good EM games
 
 [Map](https://www.google.com/maps/search/?api=1&query=Pinball+Land+114+Courtland+St+Rockford+MI+49341)
+
+## Rock's Landing
+
+Fine dining on the shore of Crystal Lake with a small seasonal menu featuring local produce, fresh seafood, and organically raised meats. Specialty cocktails. Open summers only (Tue–Sat dinner).
+
+[Map](https://www.google.com/maps/search/?api=1&query=Rock%27s+Landing+1577+Crystal+Dr+Frankfort+MI+49635)
+
+## Crystal Lake Alpaca Farm & Boutique
+
+Family-run alpaca farm on 145 acres near Frankfort, with 60 alpacas and 5 mini donkeys. Visitors can pet and feed the alpacas. Boutique sells alpaca fiber products (hats, socks, sweaters, etc.). Good stop on a Benzie County day trip.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Crystal+Lake+Alpaca+Farm+Frankfort+MI)
+
+## Historic Fishtown
+
+Collection of weathered fishing shanties, smokehouses, and docks along the Leland River where it meets Lake Michigan; one of the last working fishing districts on the Great Lakes. Listed on the National Register of Historic Places. Shops, charter fishing, and ferry to the Manitou Islands.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Historic+Fishtown+Leland+MI)
